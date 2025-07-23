@@ -1,0 +1,5760 @@
+##General:
+When reconstruction of the building was complete , the rear half of the building was named Budig Hall , for then KU Chancellor Gene Budig .
+
+ORG：KU
+PER：
+LOC：
+
+
+##General:
+The Institute of International Finance meetings are being held at Shangri-La Hotel Singapore for a period of two days and an opening dinner will be organised for the IIF delegates .
+
+ORG：The Institute of International Finance,IIF
+PER：
+LOC：Shangri-La Hotel Singapore
+
+
+##LawEnforcement:
+Harbor Police is the premier police presence in the San Diego Bay , the San Diego International Airport and on all Port Tidelands .
+
+ORG：
+PER：
+LOC：San Diego International Airport
+
+
+##LawEnforcement:
+Harbor Police jurisdiction extends through the Port 's five member cities : Chula Vista , Coronado , Imperial Beach , National City and San Diego .
+
+ORG：
+PER：
+LOC：Chula Vista,Coronado,Imperial Beach,National City,San Diego
+
+
+##General:
+The Beinecke Rare Book and Manuscript Library at Yale University has an archive of his collected papers .
+
+ORG：Yale University
+PER：
+LOC：
+
+
+##General:
+The main Catholic Church of the town is located in a park area next to the Town Hall ( Alcaldia ) and next to the Cine Centenario ( a cinema ) which are roughly located at the center of the town .
+
+ORG：
+PER：
+LOC：Alcaldia
+
+
+##General:
+Recently , Usulután has modernized considerably , having more influence from brand names such as Pollo Campero ( a chicken restaurant ) , Biggest ( a hamburger place similar to America 's Burger King ) , and more eateries that were not available there in the past .
+
+ORG：Pollo Campero,Biggest,Burger King
+PER：
+LOC：Usulután,America
+
+
+##General:
+The Kansas City Athletics played at McKechnie Field from 1963–1968 .
+
+ORG：Kansas City Athletics,McKechnie Field
+PER：
+LOC：
+
+
+##General:
+Ironically , the team left Connie Mack Field for Bradenton , after the Milwaukee Braves arrived in West Palm Beach .
+
+ORG：Connie Mack Field,Milwaukee Braves
+PER：
+LOC：Bradenton,West Palm Beach
+
+
+##SportsEvents:
+The team was not open to sharing their spring training facilities or stadium with the Braves .
+
+ORG：Braves
+PER：
+LOC：
+
+
+##General:
+The City of Bradenton talked A 's owner Charlie Finley into staying at McKechnie until .
+
+ORG：McKechnie
+PER：
+LOC：City of Bradenton
+
+
+##General:
+By that time , the A 's relocated from Kansas City to Oakland .
+
+ORG：
+PER：
+LOC：Kansas City,Oakland
+
+
+##General:
+Finley believed that his west coast team should train on the west coast , in Mesa , Arizona .
+
+ORG：
+PER：
+LOC：Mesa,Arizona
+
+
+##SportsEvents:
+During the Athletics tenure , Finley routinely tied his Athletics team mascot , a donkey named `` Charlie O '' , to a tree inside the stadium during games . ''
+
+ORG：Athletics,Athletics
+PER：
+LOC：
+
+
+##Healthcare:
+Fred Sherman , a resident of King of Prussia , Pennsylvania , died on September 12 , 2009 , at the Hospital of the University of Pennsylvania in Philadelphia at the age of 85 .
+
+ORG：
+PER：Fred Sherman
+LOC：Prussia,Pennsylvania,Philadelphia
+
+
+##General:
+Sherman had suffered from several health problems , including kidney ailments , and injuries from a car accident several weeks before his death may have contributed to his declining health .
+
+ORG：
+PER：Sherman
+LOC：
+
+
+##General:
+He suffered the car accident shortly after returning from a trip to Europe in July 2009 , and had been hospitalized on several occasions since the accident .
+
+ORG：
+PER：
+LOC：Europe
+
+
+##General:
+Gus Greenbaum ( February 26 , 1893 – December 3 , 1958 ) was an American gangster in the casino industry , best known for taking over management of the Flamingo Hotel in Las Vegas after the murder of co-founder Bugsy Siegel .
+
+ORG：
+PER：
+LOC：American,Flamingo Hotel,Las Vegas
+
+
+##General:
+Nannu 's younger brother Shamsul Haq Monju played as a right-back for the Mohammedan Sporting Club .
+
+ORG：Mohammedan Sporting Club
+PER：
+LOC：
+
+
+##General:
+The men 's 200 metre freestyle event in swimming at the 2013 World Aquatics Championships took place on 29–30 July at the Palau Sant Jordi in Barcelona , Spain .
+
+ORG：
+PER：
+LOC：Palau Sant Jordi,Barcelona,Spain
+
+
+##General:
+The Basilica of Our Lady of Copacabana is a 16th-century Spanish colonial shrine that houses the image of the Virgen de Copacabana .
+
+ORG：
+PER：
+LOC：Copacabana,Spanish
+
+
+##General:
+It is located in the town of Copacabana , Bolivia on the shores of Lake Titicaca near the Altiplano region .
+
+ORG：
+PER：
+LOC：Copacabana,Bolivia
+
+
+##General:
+Our Lady of Copacabana is the patron saint of Bolivia .
+
+ORG：
+PER：
+LOC：Bolivia
+
+
+##General:
+The Double Down is a sandwich offered by Kentucky Fried Chicken ( KFC ) restaurants .
+
+ORG：
+PER：
+LOC：Kentucky Fried Chicken,KFC
+
+
+##General:
+Wakley did all that he could , as editor of `` The Lancet `` , and as an individual , to oppose Elliotson , and to place all of his endeavours and enterprises in the worst possible light ; for example , in addition to an extensive range of articles in `` The Lancet `` , over a number of years , there is also an anti- Elliotson ( pseudonymous ) work attributed to Wakley , `` Undeniable facts concerning the strange practices of Dr . Elliotson , ... with his female patients ; and his medical experiments upon the bodies of ... E. & amp ; J. Okey , etc .
+
+ORG：
+PER：Wakley,Wakley
+LOC：
+
+
+##General:
+( 1842 ) '' which is held by the British Library , and another , most likely written by either Wakley or one of his associates , held in the collection of the Wellcome Library ( see right ) .
+
+ORG：
+PER：Wakley
+LOC：
+
+
+##General:
+As it is adjacent to the National Maritime Museum , the Tepid Baths pools , and the stylish Princes Wharf development , the Viaduct Harbour continues to be a popular attraction for Auckland residents and tourists , but there are ongoing noise and security issues connected with the local venues and eateries .
+
+ORG：
+PER：
+LOC：Tepid Baths,Princes Wharf,Viaduct Harbour,Auckland
+
+
+##General:
+Promoted to lieutenant colonel on 1 March 1934 , McClellan performed a brief tour at the end of the occupation of Hait i from 15 June to 15 August that same year .
+
+ORG：
+PER：McClellan
+LOC：
+
+
+##General:
+After a few months at the Philadelphia Naval Shipyard , he was sent to Shanghai to serve with the 4th Marine Regiment briefly before being diverted to the Philippines again .
+
+ORG：Philadelphia Naval Shipyard,4th Marine Regiment
+PER：
+LOC：Shanghai,Philippines
+
+
+##General:
+There , he commanded the Marine Barracks at the Cavite Navy Yard until his retirement on 30 June 1936 .
+
+ORG：Marine Barracks
+PER：
+LOC：
+
+
+##Theaters:
+However , contrary to these concerns , the DPAC has actually benefited the Carolina Theatre through co-promotion opportunities and other policies and activities .
+
+ORG：DPAC
+PER：
+LOC：
+
+
+##General:
+`` HobbyKids Adventures `` merchandise are sold exclusively by Walmart .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+Star Pals kids ' meal toys are available at Hardee 's and Carl 's Jr. as of August 2019 .
+
+ORG：
+PER：
+LOC：Hardee,Carl
+
+
+##General:
+In 1952 Beale AFB was placed in inactive status for conversion to an operational airbase .
+
+ORG：Beale AFB
+PER：
+LOC：
+
+
+##General:
+Headquarters , Aviation Engineer Force administered the base for the next six years while a runway was laid down , and appropriate support facilities ( hangars , maintenance shops , warehouses , barracks , and other infrastructure ) was laid out and constructed .
+
+ORG：Aviation Engineer Force
+PER：
+LOC：
+
+
+##General:
+The 2275th Air Base Squadron was the coordinating organization during the construction period .
+
+ORG：2275th Air Base Squadron
+PER：
+LOC：
+
+
+##General:
+Also in 1952 , Beale stopped being used as a bombing range and the U.S. Government declared portions of Camp Beale / Beale AFB as excess , eventually transferring out .
+
+ORG：Camp Beale,Beale AFB
+PER：
+LOC：
+
+
+##General:
+The new home of PAOK , the PAOK Sports Arena , able to hold 8,500 fans , was inaugurated on 17 March 2000 .
+
+ORG：PAOK
+PER：
+LOC：
+
+
+##General:
+That marked the end of a long period of time , in which the club had shared the home court of Alexandreio Melathron with Aris .
+
+ORG：Aris
+PER：
+LOC：Alexandreio Melathron
+
+
+##General:
+Bane Prelević returned to PAOK , after having quick spells at Kinder Bologna and AEK Athens , and then quit playing basketball at the end of the 1999–00 season .
+
+ORG：PAOK,Kinder Bologna,AEK Athens
+PER：
+LOC：
+
+
+##General:
+He later returned to PAOK in the 2001–02 season , as an assistant coach .
+
+ORG：PAOK
+PER：
+LOC：
+
+
+##Theaters:
+Held at Nokia Theatre L.A . Live on December 3 , 2011 , headlined by Lady Gaga .
+
+ORG：Nokia
+PER：Lady Gaga
+LOC：L.A .
+
+
+##Theaters:
+Glen Street Theatre is a 400-seat proscenium arch auditorium located in the Forest Community Centre , at the corner of Glen Street and Blackbutts Road in Belrose in the northern suburbs of Sydney , New South Wales , Australia .
+
+ORG：
+PER：
+LOC：Glen Street,Blackbutts Road,Sydney,New South Wales,Australia
+
+
+##General:
+It was opened as Stage 2 of the Forest Community Centre on 6 July 1985 by Warringah Shire President Darren Jones , and is owned by the Northern Beaches Council .
+
+ORG：
+PER：Darren Jones
+LOC：Warringah Shire
+
+
+##General:
+1973 saw Love Field , which had more than 70 gates and saw frequent Boeing 747 service , reach record enplanements at 6,668,398 as the eighth busiest airport in the United States .
+
+ORG：
+PER：
+LOC：Love Field,United States
+
+
+##General:
+On , DFW Airport opened , ending most passenger service at Love Field .
+
+ORG：
+PER：
+LOC：DFW Airport,Love Field
+
+
+##General:
+Greater Southwest International Airport , which lay in the flight path to DFW , was permanently closed and subsequently demolished .
+
+ORG：
+PER：
+LOC：Greater Southwest International Airport,DFW
+
+
+##General:
+Within 3 years the demand for electricity in Ireland had expanded so much that stage 2 was initiated .
+
+ORG：
+PER：
+LOC：Ireland
+
+
+##General:
+Instead of the planned three extra penstocks , only one was used but it used a new 30 MW Kaplan turbine with seven blades which produces high efficiency on the relatively small head and therefore increased the capacity of the station to 75 MW by 1933 .
+
+ORG：Kaplan
+PER：
+LOC：
+
+
+##Healthcare:
+On 27 June 2019 , he was involved in a motor vehicle accident in Sigatoka , for which he was hospitalised after which he was airlifted to the Princess Alexandra Hospital in Brisbane .
+
+ORG：
+PER：
+LOC：Sigatoka,Brisbane
+
+
+##Theaters:
+It also includes footage filmed at the Hippodrome Theatre in Eastbourne , where McCartney rehearsed his 1979 UK tour .
+
+ORG：
+PER：
+LOC：Eastbourne,UK
+
+
+##Music:
+Wings performed the song during their 1979 tour of the UK .
+
+ORG：
+PER：
+LOC：UK
+
+
+##General:
+Henry Guppy CBE ( 31 December 1861 – 4 August 1948 ) was Librarian of the John Rylands Library in Manchester from 1899 until his death in 1948 .
+
+ORG：
+PER：
+LOC：Manchester
+
+
+##General:
+On the art scene one of Antoine 's photographs broke records at Philipps De Pury auction in London selling for 15,000 GBP in 2015 .
+
+ORG：Philipps De Pury
+PER：Antoine
+LOC：London
+
+
+##General:
+In 1928 Vaghi joined the roster of singers at the Teatro dell'Opera di Roma , serving as that house 's leading bass through 1939 .
+
+ORG：
+PER：Vaghi
+LOC：Roma
+
+
+##General:
+He sang a broad repertoire at that house , including appearances in the world premieres Ildebrando Pizzetti 's `` Lo straniero `` ( 1930 , King Hanóch ) , Ermanno Wolf-Ferrari 's `` La vedova scaltra `` ( 1931 , Innkeeper ) , Licinio Refice 's `` Cecilia `` ( 1934 , Bishop Urbano ) , and Franco Alfano 's `` Cyrano de Bergerac `` ( 1936 , Carbon ) .
+
+ORG：
+PER：Hanóch
+LOC：
+
+
+##General:
+He also worked as a guest artist at numerous opera houses and opera festivals while based in Rome .
+
+ORG：
+PER：
+LOC：Rome
+
+
+##General:
+He made appearances at La Scala ( 1929–1931 ) , the Teatro Comunale Florence ( 1929–1930 ) , Arena di Verona Festival ( 1931 ) , the Teatro Communale di Bologna ( 1931 ) , and La Fenice ( 1938 ) among others .
+
+ORG：
+PER：
+LOC：La Scala
+
+
+##General:
+Hayley Wildes ( born 10 September 1996 ) is an Australian rules footballer who played for the Western Bulldogs in the AFL Women 's competition .
+
+ORG：Western Bulldogs
+PER：
+LOC：
+
+
+##General:
+Wildes was drafted by the Western Bulldogs with their six selection and forty-fourth overall in the 2016 AFL Women 's draft .
+
+ORG：Western Bulldogs
+PER：
+LOC：
+
+
+##General:
+She made her debut in the thirty-two point win against at VU Whitten Oval in the opening round of the 2017 season .
+
+ORG：VU Whitten Oval
+PER：
+LOC：
+
+
+##Healthcare:
+In the years 1950–51 he was resident medical officer at the Royal Prince Alfred Hospital and in 1952–53 he took up a fellowship at the National Health and Medical Research Council at Sydney University , graduating with a Doctor of Medicine degree .
+
+ORG：National Health and Medical Research Council,Sydney University
+PER：
+LOC：
+
+
+##General:
+The first HuHot , then called Mongo 's , was built in Missoula , Montana in 1999 by the Vap family .
+
+ORG：
+PER：
+LOC：HuHot,Mongo,Missoula,Montana
+
+
+##General:
+Due to the family 's experience as Godfather 's Pizza franchisees , they were familiar with franchising and knew a fellow restaurateur based in the Midwest who was interested in the concept .
+
+ORG：
+PER：
+LOC：Midwest
+
+
+##Theaters:
+On stage Sagoe has played Rose Maxson in the play `` Fences `` at the Garrick Theatre in 1990 and Carrie in the play `` Nine Hundred Oneonta `` at the Lyric Studio , Hammersmith in 1994 .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+A PAF contingent of six F-16A/B fighters was sent to the international Anatolian Eagle 2006 exercise , which also involved the U.S . and Israeli as well as the Turkish air forces .
+
+ORG：PAF,F-16A/B,Anatolian Eagle 2006
+PER：
+LOC：U.S,Israeli,Turkish
+
+
+##General:
+Operation Indus Viper 2008 , a joint exercise involving PAF and the Turkish Air Force , began on 21 April 2008 at PAF Base Mushaf ( Sargodha ) and was scheduled to last 10 days .
+
+ORG：Operation Indus Viper 2008,PAF,Turkish Air Force,PAF Base Mushaf
+PER：
+LOC：Sargodha
+
+
+##General:
+Five Turkish F-16C/D fighters and 50 personnel of 191 `` Kobras '' Filo ( 191 `` Cobras '' Squadron ) attended .
+
+ORG：Five Turkish F-16C/D,191 `` Kobras '' Filo,191 `` Cobras '' Squadron
+PER：
+LOC：
+
+
+##General:
+China , however , is planning to build a new airport in Nagqu , Tibet in 2011 .
+
+ORG：
+PER：
+LOC：China,Nagqu,Tibet
+
+
+##General:
+It will surpass Qamdo Bangda Airport as being the world 's highest airport once completed .
+
+ORG：
+PER：
+LOC：Qamdo Bangda Airport
+
+
+##General:
+`` Trace `` ( 1997 ) with composer Jonathan Hart Makwaia , painter Roy Fowler and writer John Jesurun .
+
+ORG：
+PER：Jonathan Hart Makwaia,Roy Fowler,John Jesurun
+LOC：
+
+
+##General:
+On 15 October 2017 , 2 RAR transferred from the 3rd Brigade to report directly to the headquarters of the 1st Division .
+
+ORG：2 RAR,1st Division
+PER：
+LOC：
+
+
+##General:
+The battalion remains based at Lavarack Barracks in Townsville , and become the division 's specialist amphibious infantry battalion .
+
+ORG：
+PER：
+LOC：Lavarack Barracks,Townsville
+
+
+##General:
+2 RAR has a strength of around 350 personnel , which is smaller than the RAR 's infantry battalions .
+
+ORG：2 RAR,RAR
+PER：
+LOC：
+
+
+##General:
+Nkemdiche was born in Atlanta , Georgia to Nigerian immigrants Beverly and Sunday Nkemdiche .
+
+ORG：
+PER：
+LOC：Atlanta,Georgia
+
+
+##General:
+His father , a cardiologist , has reportedly applied for a researcher position at University of Mississippi Medical Center in Jackson , Mississippi .
+
+ORG：University of Mississippi Medical Center
+PER：
+LOC：Jackson,Mississippi
+
+
+##General:
+His older brother , Denzel Nkemdiche , played linebacker for Ole Miss .
+
+ORG：
+PER：Denzel Nkemdiche
+LOC：
+
+
+##General:
+The Wind ENergy Data and Information ( WENDI ) Gateway was established by the Environmental Sciences Division of Oak Ridge National Laboratory in March 2010 to support the United States Department of Energy 's Wind and Hydropower Technologies Program .
+
+ORG：Wind ENergy Data and Information ( WENDI ) Gateway,Environmental Sciences Division of Oak Ridge National Laboratory
+PER：
+LOC：
+
+
+##General:
+Jones played for South Liverpool , before joining Port Vale in June 1946 .
+
+ORG：South Liverpool,Port Vale
+PER：
+LOC：
+
+
+##General:
+He made twelve Third Division South appearances in the 1946–47 season , and scored one goal in a 5–3 defeat to Leyton Orient at Brisbane Road on 5 April .
+
+ORG：Third Division South appearances
+PER：
+LOC：Brisbane Road
+
+
+##General:
+At the end of the season manager Gordon Hodgson allowed him to leave The Old Recreation Ground .
+
+ORG：
+PER：
+LOC：The Old Recreation Ground
+
+
+##General:
+Hart 's surgery was completed at the University of Oregon Medical School over the 1917–1918 winter vacation .
+
+ORG：University of Oregon Medical School
+PER：
+LOC：
+
+
+##General:
+The Tigers have played in three different home ball parks , Bennett Park from 1901 through 1911 , Tiger Stadium ( also known as Navin Field and Briggs Stadium ) from 1912 to 1999 and Comerica Park since 2000 .
+
+ORG：Tigers
+PER：
+LOC：Bennett Park,Tiger Stadium,Navin Field,Briggs Stadium,Comerica Park
+
+
+##General:
+They had a record of five wins and two losses in Opening Day games at Bennett Park , 19 wins and 22 losses at Tiger Stadium and three wins and four losses at Comerica Park , for a total home record in Opening Day games of 26 wins and 28 losses .
+
+ORG：Opening Day games
+PER：
+LOC：Bennett Park,Tiger Stadium,Comerica Park
+
+
+##General:
+Their record in Opening Day away games is 27 wins , 31 losses and one tie .
+
+ORG：Opening Day
+PER：
+LOC：
+
+
+##General:
+In 2010 , the rising level of the Yacyretá Dam flooded the tracks on the Argentinian side , which halted grain exports by rail from the Encarnacion goods terminal until a new track was completed , at a higher level , in June 2012 .
+
+ORG：
+PER：
+LOC：Argentinian,Encarnacion goods terminal
+
+
+##General:
+The church was part of the Wesleyan Methodist tradition , and during the early 20th century became part of a circuit of six local Wesleyan churches ; the others were the nearby Dorset Gardens Methodist Church ( also in Kemptown ) , Hove Methodist Church , and others in Hurstpierpoint , Portslade and Southwick .
+
+ORG：
+PER：
+LOC：Wesleyan,Kemptown,Hurstpierpoint,Portslade,Southwick
+
+
+##General:
+In December 2014 Willett won the Nedbank Golf Challenge in Sun City , South Afric a and , with a third place at the 2015 WGC-Cadillac Match Play in May 2015 , he earned a special temporary membership on the PGA Tour for the remainder of the 2015 season .
+
+ORG：PGA Tour
+PER：
+LOC：Sun City,South Afric
+
+
+##General:
+The show was revived for a reunion of the 63rd Division held at the Statler Hilton Hotel in New York City in July 1965 .
+
+ORG：
+PER：
+LOC：Statler Hilton Hotel,New York City
+
+
+##General:
+For the re-mount the characters of Tom Wand and El Stinko became ' Tom Misse l ' , American astronaut and ' El Stinko ' , Russian cosmonaut .
+
+ORG：
+PER：
+LOC：American,Russian
+
+
+##General:
+Participating veterans included Fredd Wayne , Joseph Pollock , George Goldberg , Gordon Meyers , Nick Bonardi , Danny Canestraro , Harry Butensky , Herb Behrens and Al LaVecchia .
+
+ORG：
+PER：Fredd Wayne,Joseph Pollock,George Goldberg,Gordon Meyers,Nick Bonardi,Danny Canestraro,Harry Butensky,Herb Behrens,Al LaVecchia
+LOC：
+
+
+##General:
+The Atlanta Dream are a 2008 expansion team in the Women 's National Basketball Association .
+
+ORG：Atlanta Dream,Women 's National Basketball Association
+PER：
+LOC：
+
+
+##General:
+From their inception until the 2016 season , the Dream shared Philips Arena with their NBA counterpart ; however , the Dream moved to McCamish Pavilion on the campus of Georgia Tech due to renovations of Philips Arena conflicting with the WNBA schedule during the 2017 and 2018 seasons .
+
+ORG：Dream,NBA,Dream,Georgia Tech,WNBA
+PER：
+LOC：Philips,McCamish Pavilion,Philips Arena
+
+
+##General:
+After one more season in State Farm Arena ( after the Philips was renamed during the renovations ) , they moved their home games to the new Gateway Center Arena for the 2020 season .
+
+ORG：
+PER：
+LOC：State Farm Arena,Philips,Gateway Center Arena
+
+
+##General:
+The Southern Sudan Autonomous Region was abolished in 1983 .
+
+ORG：
+PER：
+LOC：Southern Sudan Autonomous Region
+
+
+##General:
+Between 1987 and 1989 a Council for the South existed in Southern Sudan .
+
+ORG：
+PER：
+LOC：Southern Sudan
+
+
+##General:
+Following the signing of the Khartoum Peace Agreement of 1997 , a Southern Sudan Coordination Council was established initially led by Riek Macha r who was also appointed Assistant to the President of the Republic .
+
+ORG：
+PER：Riek Macha
+LOC：
+
+
+##General:
+It is currently owned by the McMenamins brewpub chain .
+
+ORG：McMenamins brewpub chain
+PER：
+LOC：
+
+
+##General:
+In early 2012 , Jeff Pehrson and Jim Brunberg performed together for the first time since 2006 with a Box Set Duo reunion and later played a 7 night run in June 2012 at McMenamins Al 's Den in Portland , OR .
+
+ORG：
+PER：
+LOC：Portland
+
+
+##General:
+The game was held at Bank of America Stadium in Charlotte , North Carolina on December 4 , 2010 .
+
+ORG：
+PER：
+LOC：Charlotte,North Carolina
+
+
+##General:
+Charlotte was chosen after poor attendance at the game 's previous locations ( Tampa , Florida and Jacksonville , Florida ) led conference officials to seek a location closer to the conference 's geographic center .
+
+ORG：
+PER：
+LOC：Charlotte,Tampa,Florida,Jacksonville,Florida
+
+
+##General:
+The 2010 championship was the first to be played in Charlotte , and the game will return to the city in 2011 .
+
+ORG：
+PER：
+LOC：Charlotte
+
+
+##General:
+In 1993 , she began talking to representatives of the National Library of Poland .
+
+ORG：
+PER：
+LOC：Poland
+
+
+##General:
+Shortly thereafter , she donated much of their collections of maps , manuscripts , prints and historical documents to the Manuscript Department at the National Library of Poland in Warsaw .
+
+ORG：
+PER：
+LOC：Poland,Warsaw
+
+
+##General:
+Alongside brother Bobby , Hashemi developed and co-founded Coffee Republic , the UK 's first US -style coffee bar chain .
+
+ORG：Coffee Republic
+PER：
+LOC：UK,US
+
+
+##General:
+The first site opened on South Molton Street in 1995 .
+
+ORG：
+PER：
+LOC：South Molton Street
+
+
+##General:
+Coffee Republic switched from AIM to the full list in July 2000 .
+
+ORG：Coffee Republic
+PER：
+LOC：
+
+
+##General:
+The chain had opened 108 stores by 2001 , when Hashemi left the firm to write `` Anyone Can Do It : Building Coffee Republic from Our Kitchen Table '' .
+
+ORG：Coffee Republic
+PER：
+LOC：
+
+
+##General:
+At the time of Varma 's birth , Trippappur Swaroopam ( Thiruvithamkoor or Travancore ) was a small chiefdom extending from Edava in the north to Aralvaimozhi in the south .
+
+ORG：
+PER：
+LOC：Edava,Aralvaimozhi
+
+
+##General:
+The fundamental politico-economic structure of medieval Kerala was going through a crisis .
+
+ORG：
+PER：
+LOC：Kerala
+
+
+##General:
+The Team pursuit took place over three laps of the 660-yard track at the White City Stadium in London 's Shepherd 's Bush .
+
+ORG：
+PER：
+LOC：White City Stadium,London 's Shepherd 's Bush
+
+
+##General:
+Payne , 23 , rode with Benjamin Jones , Clarence Kingsbury and Leonard Meredith in the British team .
+
+ORG：
+PER：
+LOC：British
+
+
+##General:
+The Haditha Dam ( ) or Qadisiya Dam is an earth-fill dam on the Euphrates , north of Haditha ( Iraq ) , creating Lake Qadisiyah ( ) .
+
+ORG：
+PER：
+LOC：Haditha,Iraq
+
+
+##General:
+It is the second-largest hydroelectric contributor to the power system in Iraq behind the Mosul Dam .
+
+ORG：
+PER：
+LOC：Iraq
+
+
+##General:
+None of this hurt sales , however ; Stratemeyer was unperturbed , even when his books were banned from the Newark Public Library as early as 1901 , writing to a publisher : `` Personally it does not matter much to me .
+
+ORG：
+PER：Stratemeyer
+LOC：
+
+
+##General:
+Taking them out of the Library has more than tripled the sales in Newark . ''
+
+ORG：
+PER：
+LOC：Newark
+
+
+##General:
+The closure of the aerodrome was not the end of the story for Hooton Park – it became the site of the north 's biggest agricultural show ( the Cheshire Show ) until 1977 , and the runways continued to be used by Shell Research for testing cars at high speed .
+
+ORG：Shell Research
+PER：
+LOC：
+
+
+##General:
+In 1960 part of the site was purchased by Vauxhall Motors for the construction of a vehicle production plant at Ellesmere Port – the first car to roll off the production line being the Vauxhall Viva .
+
+ORG：Vauxhall Motors
+PER：
+LOC：
+
+
+##General:
+In early December 2007 , Fator signed a contract for $ 1.5 million with the Las Vegas Hilton to do three shows a month from January 2008 to May 2008 .
+
+ORG：
+PER：
+LOC：Las Vegas Hilton
+
+
+##General:
+In 1990 it received royal designation from Elizabeth II , Queen of Canada .
+
+ORG：
+PER：Elizabeth II
+LOC：Canada
+
+
+##General:
+Following the end of the Cold War , the RAF became more open about the role of 51 Squadron and the Nimrod R1 , particularly when the unit moved from RAF Wyton to RAF Waddington , co-locating the bulk of its ISTAR assets .
+
+ORG：RAF,51 Squadron,RAF,RAF
+PER：
+LOC：Wyton,Waddington
+
+
+##General:
+The aircraft undertook its mission in various post- Cold War operations , including the Former Yugoslavia , Iraq and Afghanistan .
+
+ORG：
+PER：
+LOC：Former Yugoslavia,Iraq,Afghanistan
+
+
+##General:
+There are no passenger airports in the borough ( a grass airfield exists in Little Budworth ) , with the nearest being Liverpool and Manchester which licensed vehicles provide transport to .
+
+ORG：
+PER：
+LOC：Little Budworth,Liverpool,Manchester
+
+
+##General:
+Airbus ' fleet of A300-600ST Beluga transporter aircraft are based at Hawarden Airport in neighbouring Flintshire , adjacent to their wing manufacturing facility .
+
+ORG：
+PER：
+LOC：Hawarden Airport,Flintshire
+
+
+##General:
+Lee was known for her activism against the damming of rivers , and particularly her opposition to Glen Canyon Dam in Northern Arizona , which opened in 1963 .
+
+ORG：
+PER：
+LOC：Northern Arizona
+
+
+##General:
+After joining a rafting trip in the Grand Canyon in 1953 , she became a regular on river trips on the Colorado River and joined the opposition to the construction of Glen Canyon Dam .
+
+ORG：
+PER：
+LOC：Grand Canyon
+
+
+##General:
+On November 21 , 2013 , a Boeing 747-409LCF operated by Atlas Air , registration N780BA , mistakenly landed at Colonel James Jabara Airport ( KAAO ) , instead of the nearby McConnell Air Force Base ( KIAB ) .
+
+ORG：Atlas Air
+PER：
+LOC：Colonel James Jabara Airport ( KAAO ),McConnell Air Force Base ( KIAB )
+
+
+##General:
+The aircraft repositioned to KIAB the next day .
+
+ORG：
+PER：
+LOC：KIAB
+
+
+##General:
+Lone Star College – Tomball and Community Library is a joint partnership with the Lone Star College System ( LSCS ) and the Harris County Public Library system HCPL ) .
+
+ORG：Lone Star College
+PER：
+LOC：
+
+
+##General:
+It is located at the Lone Star College System- Tomball campus on Tomball Parkway ( Highway 249 ) , Tomball , Texas and housed in a , two-storied building .
+
+ORG：
+PER：
+LOC：Tomball,Tomball Parkway,Highway 249,Tomball,Texas
+
+
+##Healthcare:
+After graduating , Caton was resident at the Edinburgh Royal Infirmary and the Royal Hospital for Sick Children , Edinburgh .
+
+ORG：Edinburgh Royal Infirmary,Royal Hospital for Sick Children
+PER：
+LOC：Edinburgh
+
+
+##General:
+He moved to Liverpool in 1868 and became assistant physician to The Liverpool Infirmary for Children .
+
+ORG：Liverpool Infirmary for Children
+PER：
+LOC：Liverpool
+
+
+##Healthcare:
+He was physician to the Northern Hospital , Liverpool from 1876 to 1886 , and physician to the Liverpool Royal Infirmary from 1886 to 1902 , where he became consulting physician upon his retirement .
+
+ORG：Liverpool Royal Infirmary
+PER：
+LOC：Liverpool
+
+
+##General:
+He was Vice-Chairman of the Liverpool School of Tropical Medicine from its foundation in 1899 .
+
+ORG：Liverpool School of Tropical Medicine
+PER：
+LOC：
+
+
+##General:
+Papers of Elaine Showalter are held at the Women 's Library at the Library of the London School of Economics , ref 7ESH
+
+ORG：London School of Economics
+PER：Elaine Showalter
+LOC：
+
+
+##General:
+NC 148 begins at an interchange with US 70 west of Kinston .
+
+ORG：
+PER：
+LOC：NC 148,US 70
+
+
+##General:
+The highway then proceeds northward , paralleling US 258 before crossing and having an interchange with each other .
+
+ORG：
+PER：
+LOC：US 258
+
+
+##General:
+Turning eastward , the highway runs around the south side of Kinston Regional Jetport and NC Global Transpark before ending at an at-grade intersection with NC 58 .
+
+ORG：
+PER：
+LOC：Kinston Regional Jetport,NC 58
+
+
+##Theaters:
+He made his London West End debut in the original production of Joe Orton 's `` What The Butler Saw `` at the Queen 's Theatre in 1969 with Ralph Richardson , Stanley Baxter and Coral Browne .
+
+ORG：
+PER：Joe Orton
+LOC：
+
+
+##General:
+Constructed in 1941 , and officially commissioned in 1943 , NAS Oceana has been home to carrier-based aircraft since its inception .
+
+ORG：NAS Oceana
+PER：
+LOC：
+
+
+##General:
+The field serves as home for 14 deployable Strike Fighter squadrons operating the F/A-18E/F Super Hornet , a Strike Fighter Fleet Replacement Squadron , an adversary squadron , and a logistics squadron .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+Additionally , NAS Oceana operates Dam Neck Annex , a separate secured facility that is home to other non-flying commands , and Naval Auxiliary Landing Field Fentress , a practice carrier landing field , in nearby Chesapeake , VA .
+
+ORG：NAS Oceana,Dam Neck Annex,Naval Auxiliary Landing Field Fentress
+PER：
+LOC：Chesapeake
+
+
+##General:
+The air station is not normally open to the public except for one weekend each year , usually in September , when it hosts the Oceana Air Show .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+The outflow from Llyn Eigiau is called Afon Porth-llwyd , and this flows via Coedty reservoir before passing under Pont Newydd in Dolgarrog .
+
+ORG：
+PER：
+LOC：Pont Newydd,Dolgarrog
+
+
+##General:
+Some extremely large or traditional research libraries are entirely reference in this sense , lending none of their materials ; most academic research libraries , at least in the US and the UK , now lend books , but not periodicals or other materials .
+
+ORG：
+PER：
+LOC：US,UK
+
+
+##General:
+Examples of research libraries include the British Library , the Bodleian Library at Oxford University and the New York Public Library Main Branch on 42nd Street in Manhattan , State Public Scientific Technological Library of the Siberian Branch of the Russian Academy of Science .
+
+ORG：Oxford University,Russian Academy of Science
+PER：
+LOC：42nd Street,Manhattan
+
+
+##General:
+United Arab Emirates has conducted a telethon , aired live on various Dubai and Emirates TV channels .
+
+ORG：
+PER：
+LOC：United Arab Emirates
+
+
+##General:
+UAE continued to send aid via the Queen Alia International Airport in Jordan .
+
+ORG：
+PER：
+LOC：UAE,Queen Alia International Airport,Jordan
+
+
+##General:
+Several of the original cast members ( Berry , Joseph , Jameson and Regan ) returned to Los Angeles and began work on a new revue , `` The Billy Barnes People `` .
+
+ORG：
+PER：
+LOC：Los Angeles
+
+
+##Theaters:
+`` The Billy Barnes People `` opened on Broadway at the Royale Theatre on June 13 , 1961 and closed four days later after only seven performances .
+
+ORG：Broadway
+PER：
+LOC：
+
+
+##Cars:
+The 1991 Western Athletic Conference Men 's Basketball Tournament was held March 6–9 at the Arena-Auditorium at the University of Wyoming in Laramie , Wyoming .
+
+ORG：University of Wyoming
+PER：
+LOC：Laramie,Wyoming
+
+
+##General:
+In 2003 , Cuyahoga County Public Library and the Cleveland Public Library collaborated to create the Greater Access Library Card .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+The card allows customers of either library and the libraries in the CLEVNET network to take out books from both systems without having to carry more than one library card .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+The Louisville Bats are a professional Minor League Baseball team based in Louisville , Kentucky .
+
+ORG：Louisville Bats,Minor League Baseball
+PER：
+LOC：Louisville,Kentucky
+
+
+##General:
+They play in the International League as the Triple-A affiliate of the Cincinnati Reds .
+
+ORG：International League,Cincinnati Reds
+PER：
+LOC：
+
+
+##General:
+The Bats play their home games at Louisville Slugger Field which opened in 2000 .
+
+ORG：
+PER：
+LOC：Louisville Slugger Field
+
+
+##General:
+The team previously played at Cardinal Stadium from 1982 to 1999 .
+
+ORG：
+PER：
+LOC：Cardinal Stadium
+
+
+##General:
+During his tenure as Prime Minister , Shastri visited many countries including Soviet Union , Yugoslavia , England , Canada , Nepal , Egypt and Burma .
+
+ORG：
+PER：Prime Minister,Shastri
+LOC：Soviet Union,Yugoslavia,England,Canada,Nepal,Egypt,Burma
+
+
+##General:
+Incidentally while returning from the Non Alliance Conference in Cairo on the invitation of then President of the Pakistan , Mohammed Ayub Khan to have lunch with him , Shastri made a stop over at Karachi Airport for few hours and breaking from the protocol Ayub Khan personally received him at the Airport and had an informal meeting during October 1964 .
+
+ORG：
+PER：Mohammed Ayub Khan,Shastri
+LOC：Cairo,Pakistan,Karachi Airport
+
+
+##General:
+After the declaration of ceasefire with Pakistan in 1965 , Shastri and Ayub Khan attended a summit in Tashkent ( former USSR , now in modern Uzbekistan ) , organized by Alexei Kosygin .
+
+ORG：
+PER：Shastri,Ayub Khan,Alexei Kosygin
+LOC：Pakistan,Tashkent,USSR,Uzbekistan
+
+
+##General:
+On 10 January 1966 , Shastri and Ayub Khan signed the Tashkent Declaration .
+
+ORG：
+PER：Shastri,Ayub Khan
+LOC：
+
+
+##General:
+As the C-141 was phased out at McChord during the 1990s , it was replaced with the C-17 Globemaster III .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+McChord AFB and its 62 AW was the second AMC base to receive this aircraft for active duty , the first having been the 437th Airlift Wing ( 437 AW ) at Charleston AFB , South Carolina .
+
+ORG：62 AW,437th Airlift Wing ( 437 AW )
+PER：
+LOC：South Carolina
+
+
+##General:
+He continued his education at Ruskin College , Oxford in 1968 , then moved to Warwick University in 1970 where he graduated with a BA in English and American Literature in 1973 , and earned a PhD in 1980 .
+
+ORG：Ruskin College,Warwick University
+PER：
+LOC：Oxford
+
+
+##General:
+The 1999 NCAA Division III football season , part of the college football season organized by the NCAA at the Division III level in the United States , began in August 1999 , and concluded with the NCAA Division III Football Championship , also known as the Stagg Bowl , in December 1999 at Salem Football Stadium in Salem , Virginia .
+
+ORG：NCAA
+PER：
+LOC：United States,Salem Football Stadium,Salem,Virginia
+
+
+##General:
+The Pacific Lutheran Lutes won their first Division III championship by defeating the Rowan Profs , 42−13 .
+
+ORG：The Pacific Lutheran Lutes,Rowan Profs
+PER：
+LOC：
+
+
+##General:
+1789 Dobrovolsky ( `` prov .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+designation '' : ) is a Flora asteroid from the inner regions of the asteroid belt , approximately 8 kilometers in diameter .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+It was discovered on 19 August 1966 , by Russian astronomer Lyudmila Chernykh at the Crimean Astrophysical Observatory in Nauchnyj on the Crimean peninsula .
+
+ORG：
+PER：
+LOC：Russian
+
+
+##Theaters:
+First seen at Melbourne 's New Theatre in 1958 , `` The Ballad of Angel 's Alley `` received a professional premiere in July 1962 at the Russell St Theatre in Melbourne presented by the Union Theatre Repertory Company .
+
+ORG：Union Theatre Repertory Company
+PER：
+LOC：Melbourne
+
+
+##Theaters:
+It was also performed by NIDA students at Sydney 's Old Tote Theatre in September 1963 , and was revived professionally by Melbourne 's St Martin 's Theatre in April 1973 .
+
+ORG：NIDA students
+PER：
+LOC：
+
+
+##General:
+The Astoria Performing Arts Center in cooperation with Actor 's Equity mounted a production from May 1–17 , 2014 in Astoria , Queens , New York , Tom Wojtunik director .
+
+ORG：
+PER：Tom Wojtunik
+LOC：Astoria,Queens,New York
+
+
+##General:
+In March 2019 , Rhorer returned to Théâtre des Champs-Elysées to conduct Richard Strauss 's `` Ariadne auf Naxos `` in a production by Katie Mitchell .
+
+ORG：
+PER：Rhorer,Richard Strauss,Katie Mitchell
+LOC：
+
+
+##General:
+On the death of Louis XIV in September 1715 , the new king , Louis XV , was but five years old .
+
+ORG：
+PER：Louis XIV,Louis XV
+LOC：
+
+
+##General:
+The country was then governed by the new king 's older relative Philippe II d ' Orléans as the regent of France .
+
+ORG：
+PER：Philippe II
+LOC：Orléans,France
+
+
+##General:
+This period in French history is known as the Regency ( `` La Régence '' ) , and gave the `` House of Orléans '' the pre-eminent position and political role in France during the king 's minority .
+
+ORG：
+PER：
+LOC：French,France
+
+
+##General:
+The regent ruled France from his family residence in Paris , the Palais-Royal .
+
+ORG：
+PER：
+LOC：France,Paris
+
+
+##General:
+He installed the young Louis XV in the Palais du Louvre which was opposite the Palais-Royal .
+
+ORG：
+PER：Louis XV
+LOC：
+
+
+##General:
+A notable client was actor Jack Lord of `` Hawaii Five-O `` fame , who would take walks in the mall during his later years .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+A bronzed bust of Lord sits outside the mall , near the California Pizza Kitchen entrance .
+
+ORG：
+PER：
+LOC：California Pizza Kitchen
+
+
+##General:
+An additional $ 150,000 was contributed by the National Library of Australia and nineteen Australian university libraries .
+
+ORG：National Library of Australia
+PER：
+LOC：Australian
+
+
+##General:
+He was buried at the Montreal Workers ' Circle section of the Baron de Hirsch Cemetery , Montreal .
+
+ORG：
+PER：
+LOC：Montreal
+
+
+##General:
+`` His archives are held at McGill University in the Osler Library of the History of Medicine
+
+ORG：McGill University
+PER：
+LOC：
+
+
+##General:
+The son of Leo R. MacDonald and Helen MacDonald , MacDonald was educated in Orwell .
+
+ORG：Orwell
+PER：
+LOC：
+
+
+##General:
+The 2005 event took place between November 6 and November 8 at Caesars Palace in Las Vegas .
+
+ORG：
+PER：
+LOC：Caesars Palace,Las Vegas
+
+
+##General:
+Within the framework of administrative divisions , it is , together with twenty-four rural localities , incorporated as Borisoglebsky Urban Okrug—an administrative unit with the status equal to that of the districts .
+
+ORG：
+PER：
+LOC：Borisoglebsky
+
+
+##General:
+The Phare de la méditerranée is an observation tower with a revolving restaurant 45 metres above ground at Palavas-les-Flots in France .
+
+ORG：
+PER：
+LOC：France
+
+
+##General:
+The TAC Control Squadron crews were repeatedly exercised by `` Quick Reaction Alert '' using T-33 manned aircraft to simulate the planned Matador flight paths , and the T-33 became evident during the exercise when the radar operator observed the aircraft transponder returning `` two blips on the same Scan '' instead of 1 as with an actual Matador in flight .
+
+ORG：TAC Control Squadron crews
+PER：
+LOC：
+
+
+##General:
+During `` Annual Missile Launch Operations `` , Matador units from Germany at Wheelus Air Base in Libya conducted test firings until after the phase-out of the Matador began in 1959 ( the TM-61C Matador was retired on September 25 , 1962 . )
+
+ORG：Matador units
+PER：
+LOC：Germany,Libya
+
+
+##General:
+In a family from the Cévennes , he was the son of Abraham Peyrenc de Moras ( 1686–1732 ) , son of barber enriched in the system of Law , who built the Hôtel Biron ( which since 1919 has housed the Musée Rodin ) , rue de Varenne in Paris and his wife , Anne-Marie-Josephe de Farges ( 1699–1738 ) .
+
+ORG：
+PER：
+LOC：Cévennes,Hôtel Biron,Varenne,Paris
+
+
+##General:
+Like his father , he is lord of Ambert , in Arlanc of Boutonnargues , Riols and Saint-Amand Roche Savine .
+
+ORG：
+PER：
+LOC：Ambert,Arlanc,Boutonnargues,Riols,Saint-Amand Roche Savine
+
+
+##Theaters:
+In 2003 she appeared in the play `` Mum 's The Word `` ( written by Linda A Carson , Jill Daum , Alison Kelly , Robin Nichol , Barbara Pollard and Deborah Williams ) at the Albery Theatre in London .
+
+ORG：
+PER：Linda A Carson,Jill Daum,Alison Kelly,Robin Nichol,Barbara Pollard,Deborah Williams
+LOC：London
+
+
+##General:
+In July 2015 , Hardee 's announced that it would be offering The All-Natural Burger , which launched at sister-chain Carl 's Jr . restaurants in December 2014 .
+
+ORG：Hardee 's
+PER：
+LOC：Carl 's Jr
+
+
+##General:
+According to `` Bloomberg Business Week `` , Maguire was `` Chief Operating Officer at Panera Bread Co . ( also known as Au Bon Pain Co. , Inc . ) from March 2008 to April 2012 and as its Executive Vice President since April 3 , 2006 .
+
+ORG：Panera Bread Co .,Au Bon Pain Co. , Inc
+PER：
+LOC：
+
+
+##General:
+He joined Panera Bread Co . in April 1993 and served as Chief Company and Joint Venture Operations Officer since November 2002 ; Senior Vice President from November 2002 to April 3 , 2006 ; Senior Vice President of Company Operations and Bakery Supply Chain from April 2000 to July 2001 and Vice President of Commissary Operations from November 1998 to March 2000 .
+
+ORG：Panera Bread Co
+PER：
+LOC：
+
+
+##General:
+From January 1990 to October 1998 , Mr. Maguire served as a Manager and Vice President of Commissary Operations for the Au Bon Pain and Panera Bread/ Saint Louis Bread Divisions and a Director at Panera Bread Co . ''
+
+ORG：Au Bon Pain,Panera Bread/ Saint Louis Bread Divisions,Panera Bread Co
+PER：
+LOC：
+
+
+##General:
+On a 2011 trip to Tajikistan , he expressed support for the Rogun Dam project , calling `` the best project for the development of the region. “
+
+ORG：
+PER：
+LOC：Tajikistan
+
+
+##General:
+Currently , Dow Chemical operates two corporate-owned Bombardier ( Canadair ) CRJ-700 aircraft from the airport flying its employees to and from MBS International Airport in Freeland , Michigan and also to Baton Rouge Metropolitan Airport in Louisiana .
+
+ORG：Dow Chemical
+PER：
+LOC：MBS International Airport,Freeland,Michigan,Baton Rouge Metropolitan Airport,Louisiana
+
+
+##General:
+Servair is a subsidiary of air france ( 50,01 % ) and Swiss catering company gategroup ( 49,99 % ) , specialised in airline catering .
+
+ORG：Servair,air france,gategroup
+PER：
+LOC：Swiss
+
+
+##General:
+Servair has its head office in the Continental Square complex in Roissypôle , Paris-Charles de Gaulle Airport and in Tremblay -en- France .
+
+ORG：Servair
+PER：
+LOC：Roissypôle,Paris-Charles de Gaulle Airport,Tremblay,France
+
+
+##General:
+In 2013 , a critical Public Accounts Committee report stated that the private consortium managing Sellafield has failed to reduce costs and delays .
+
+ORG：
+PER：
+LOC：Sellafield
+
+
+##General:
+Between 2005 and 2013 the annual costs of operating Sellafield increased from £900 million to about £1.6 billion .
+
+ORG：
+PER：
+LOC：Sellafield
+
+
+##General:
+The estimated lifetime undiscounted cost of dealing with the Sellafield site increased to £67.5 billion .
+
+ORG：
+PER：
+LOC：Sellafield site
+
+
+##General:
+In 2014 , the undiscounted decommissioning cost estimate for Sellafield was increased to £79.1 billion , and by 2015 to £117.4 billion .
+
+ORG：
+PER：
+LOC：Sellafield
+
+
+##General:
+On late 2009 , four RAF Typhoon FGR4s were deployed to RAF Mount Pleasant , replacing the Tornado F3s of No .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+1435 Flight defending the Falkland Islands .
+
+ORG：
+PER：
+LOC：Falkland Islands
+
+
+##General:
+No.6 Squadron stood up at RAF Leuchars on 6September 2010 , making Leuchars the second RAF base to operate the Typhoon .
+
+ORG：No.6,RAF Leuchars,RAF
+PER：
+LOC：
+
+
+##General:
+On March 10 , 2007 , Ahrens was elected on the fifth ballot as Suffragan Bishop of Connecticut at a special convention held in Christ Church Cathedral , Hartford .
+
+ORG：
+PER：
+LOC：Suffragan,Connecticut
+
+
+##General:
+She was consecrated on June 30 , 2007 in the Woolsey Hall of Yale University , by Presiding Bishop Katharine Jefferts Schori .
+
+ORG：Yale University ,
+PER：
+LOC：Woolsey Hall
+
+
+##General:
+Nicosia old aqueduct is located in Nicosia , the capital of Cyprus and is the oldest aqueduct in Cyprus .
+
+ORG：
+PER：
+LOC：Nicosia,Cyprus,Cyprus
+
+
+##General:
+On March 29 , 2010 , Corddry and Duke were guest hosts on `` WWE Raw `` from the US Airways Center in Phoenix , Arizona , to promote the film .
+
+ORG：US Airways Center
+PER：
+LOC：Phoenix,Arizona
+
+
+##General:
+Malaysia Airlines has its headquarters and registered office on the first floor of Administration Building , South Support Zone at Kuala Lumpur International Airport ( KLIA ) , Sepang , in the Klang Valley region .
+
+ORG：Malaysia Airlines
+PER：
+LOC：Kuala Lumpur International Airport ( KLIA )
+
+
+##General:
+The CEGB fully converted the two power stations to burn oil after collieries in the Somerset coalfield closed .
+
+ORG：CEGB
+PER：
+LOC：
+
+
+##General:
+The two Radstock pits ceased production in September 1973 and the last trainload of coal arrived at the station on 16 November 1973 .
+
+ORG：
+PER：
+LOC：Radstock
+
+
+##General:
+The price of oil rose steeply in the 1970s ( see 1973 oil crisis and 1979 oil crisis ) and the two power stations were little used thereafter .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+By this time Hinkley Point A nuclear power station and Hinkley Point B nuclear power station had come into operation , reducing demand for electricity produced from burning coal .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+The Hanwha Eagles of the KBO League play their home games at Daejeon Baseball Stadium in Busa-dong .
+
+ORG：Hanwha Eagles,KBO League
+PER：
+LOC：Daejeon Baseball Stadium,Busa-dong
+
+
+##General:
+The U.S. Air Force dropped several BLU-82s during the campaign to destroy Taliban and al-Qaeda bases in Afghanistan to attack and demoralize personnel and to destroy cave complexes .
+
+ORG：U.S. Air Force,Taliban
+PER：
+LOC：Afghanistan
+
+
+##General:
+American forces began using the bomb in November 2001 and again a month later during the Battle of Tora Bora .
+
+ORG：American forces
+PER：
+LOC：
+
+
+##General:
+On 15 July 2008 , airmen from the Duke Field 711th Special Operations Squadron , 919th Special Operations Wing dropped the last operational BLU-82 at the Utah Test and Training Range .
+
+ORG：Duke Field 711th Special Operations Squadron,919th Special Operations Wing
+PER：
+LOC：Utah Test and Training Range
+
+
+##General:
+The Adventurers Club 's cast reunited for one last performance and `` membership renewal '' at the Disney D23 Destination D event on Sunday , November 23 , 2014 , at around 8:30PM in the Disney 's Contemporary Resort Fantasia conference building and rooms .
+
+ORG：Adventurers Club
+PER：
+LOC：
+
+
+##General:
+Milan Linate Airport is the third international airport of Milan , the second-largest city and largest urban area of Italy , behind Malpensa Airport and Orio al Serio Airport .
+
+ORG：
+PER：
+LOC：Milan Linate Airport,Milan,Italy,Malpensa Airport,Orio al Serio Airport
+
+
+##General:
+It served 9,233,475 passengers in 2018 , being the fifth busiest airport in Italy , and is used as a hub for Alitalia and Alitalia CityLiner .
+
+ORG：Alitalia,Alitalia CityLiner
+PER：
+LOC：Italy
+
+
+##General:
+In September 1907 , Branch 8 of the Detroit Public Library system opened as the Delray Branch on West End Avenue .
+
+ORG：
+PER：
+LOC：West End Avenue
+
+
+##General:
+In January 1922 , the branch was replaced with the James Valentine Campbell Branch on M-85 ( West Fort Street ) .
+
+ORG：
+PER：
+LOC：M-85 ( West Fort Street )
+
+
+##General:
+It is located outside of the neighborbood at 8733 West Vernor in the Springwells neighborhood .
+
+ORG：
+PER：
+LOC：8733 West Vernor,Springwells
+
+
+##Theaters:
+The play premiered at the Duchess Theatre in the West End in August 1937 .
+
+ORG：
+PER：
+LOC：West End
+
+
+##General:
+The Nuclear Regulatory Commission and the Shoreham Power Plant , a 1998 book by Joan Aron , presents the first detailed case study of how an activist public and elected officials of New York state opposed the Shoreham Nuclear Power Plant on Long Island .
+
+ORG：
+PER：Joan Aron
+LOC：New York,Long Island
+
+
+##General:
+The book explains that nuclear power faltered when `` public concerns about health , safety , and the environment superseded other interests about national security or energy supplies '' .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+In 2012 , Café de Coral started another restaurant chain called MiXian Sense , aiming to become leader in Hong Kong `` mixian '' ( rice noodle ) market .
+
+ORG：Café de Coral
+PER：
+LOC：MiXian Sense,Hong Kong
+
+
+##General:
+Bruce Whiteman ( born David Bruce Whiteman , June 18 , 1952 ) is a Canadian poet , translator , and essayist whose writings focus on music , bibliography , cultural history , and literature .
+
+ORG：
+PER：Bruce Whiteman,David Bruce Whiteman
+LOC：Canadian
+
+
+##General:
+Born in Southern Ontario and educated at Trent University and the University of Toronto , in 1996 Whiteman was appointed director of the William Andrews Clark Memorial Library at the University of California , Los Angeles , a position he held until 2010 .
+
+ORG：Trent University,University of Toronto,University of California
+PER：Whiteman
+LOC：Southern Ontario,Los Angeles
+
+
+##General:
+Currently Whiteman lives in Peterborough , Ontario , and contributes book reviews and essays regularly to publications such as `` TriQuarterly `` , `` Rattle , '' and the `` Los Angeles Review of Books `` .
+
+ORG：
+PER：Whiteman
+LOC：Peterborough,Ontario
+
+
+##General:
+Rainey attended the United States Air Force Academy and graduated in 1980 with a degree in Engineering Mechanics .
+
+ORG：United States Air Force Academy
+PER：Rainey
+LOC：
+
+
+##General:
+He attended undergraduate pilot training at Vance Air Force Base in Oklahoma .
+
+ORG：
+PER：
+LOC：Oklahoma
+
+
+##General:
+Rainey was stationed at Ramstein Air Base in Germany where he flew the McDonnell Douglas F-4 Phantom II .
+
+ORG：
+PER：Rainey
+LOC：Germany
+
+
+##General:
+The Southwest Finger of Level 3 of Terminal 1 at Singapore Changi Airport housed the head office of the airline .
+
+ORG：
+PER：
+LOC：Singapore Changi Airport
+
+
+##Theaters:
+The play was produced at London 's Jermyn Street Theatre in October 2010 .
+
+ORG：
+PER：
+LOC：London
+
+
+##General:
+The production starred Catherine Cusack and Paul McEwan , and was directed by the then-Artistic Director of the theater , Gene David Kirk .
+
+ORG：
+PER：Gene David Kirk
+LOC：
+
+
+##General:
+Since the constructive work done for the 1992 Summer Olympics and with grand-scale urban regeneration taking place in time for the 2004 Universal Forum of Cultures , Barcelona has become a center for avant-garde architecture , starting with the Hotel Arts and its twin the Torre Mapfre .
+
+ORG：
+PER：
+LOC：Barcelona,Hotel Arts,Torre Mapfre
+
+
+##General:
+Among those works , the Torre Agbar is one of the ones that has caused more disparaging opinions .
+
+ORG：
+PER：
+LOC：Torre Agbar
+
+
+##General:
+As a result of its unusual shape , the building is known by several nicknames such as `` l'obús '' ( the shell ) , `` el supositori '' ( the suppository ) , and some more eschatological ones .
+
+ORG：
+PER：
+LOC：l'obús '' ( the shell ),el supositori '' ( the suppository )
+
+
+##General:
+Patton took an earnest part in the anti-slavery movement , and was chairman of the committee that presented to President Lincoln , 13 September 1862 , the memorial from Chicago asking him to issue a proclamation of emancipation .
+
+ORG：
+PER：Lincoln
+LOC：Chicago
+
+
+##General:
+In 1887 , Patton read a paper before the Maryland Historical Society entitled `` President Lincoln and the Chicago Memorial on Emancipation `` recalling the actual dialogue with President Lincoln at that meeting in 1862 .
+
+ORG：Maryland Historical Society
+PER：Lincoln,Lincoln
+LOC：
+
+
+##General:
+The original copy of that paper is held in the Mugar Memorial Library at Boston University .
+
+ORG：Boston University
+PER：
+LOC：
+
+
+##General:
+He was vice-president of the Northwestern sanitary commission during the American Civil War , and as such repeatedly visited the eastern and western armies , publishing several pamphlet , reports .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+In 1886 , he went , on behalf of the freedmen , to Europe , where , and in the Orient , he remained nearly a year .
+
+ORG：
+PER：
+LOC：Europe,Orient
+
+
+##Music:
+`` Carpet Man `` , the album 's second single , landed at # 29 in the US , but found great success in Canada , charting at # 3 on Toronto 's CHUM chart , and # 11 on the RPM chart , in March 1968 .
+
+ORG：
+PER：
+LOC：US,Canada,Toronto
+
+
+##Music:
+The group performed the song on Kraft Music Hall ( on an episode hosted by John Davidson ) and the Ed Sullivan Show .
+
+ORG：
+PER：John Davidson
+LOC：
+
+
+##General:
+A dam constructed by the U.S. Army Corps of Engineers on the Cumberland River in 1966 , and the lake it forms , were named Barkley Dam and Lake Barkley in Barkley 's honor .
+
+ORG：U.S. Army Corps of Engineers
+PER：
+LOC：
+
+
+##General:
+Barkley Regional Airport in Paducah is also named for him .
+
+ORG：
+PER：
+LOC：Barkley Regional Airport,Paducah
+
+
+##General:
+In 1984 , the federal government declined to purchase The Angles , his Paducah home , and it was sold at auction .
+
+ORG：
+PER：
+LOC：Paducah
+
+
+##General:
+Many personal items owned by Barkley are displayed on the second floor of the historic house Whitehaven in Paducah .
+
+ORG：
+PER：
+LOC：Paducah
+
+
+##General:
+In February 2008 , Paducah 's American Justice School of Law changed owners after failing to secure accreditation from the American Bar Association .
+
+ORG：American Justice School of Law,American Bar Association
+PER：
+LOC：Paducah
+
+
+##General:
+It was renamed the Alben W. Barkley School of Law , but remained unaccredited , and closed in December 2008 .
+
+ORG：Alben W. Barkley School of Law
+PER：
+LOC：
+
+
+##General:
+The 1977 Penn State Nittany Lions football team represented the Pennsylvania State University in the 1977 NCAA Division I football season .
+
+ORG：Penn State Nittany Lions,Pennsylvania State University
+PER：
+LOC：
+
+
+##General:
+The team was coached by Joe Paterno and played its home games in Beaver Stadium in University Park , Pennsylvania .
+
+ORG：University Park
+PER：
+LOC：Beaver Stadium,Pennsylvania
+
+
+##Theaters:
+Born in Glasgow , Forbes was educated at the University of Edinburgh and the Bristol Old Vic Theatre School .
+
+ORG：University of Edinburgh,Bristol Old Vic Theatre School
+PER：
+LOC：Glasgow
+
+
+##General:
+The Bangkok National Museum ( , ) is the main branch museum of the National Museums in Thailand and also one of the largest museums in Southeast Asia .
+
+ORG：
+PER：
+LOC：Thailand,Southeast Asia
+
+
+##General:
+It occupies the former palace of the vice king ( or Front Palace ) , set between Thammasat University and the National Theater , facing Sanam Luang .
+
+ORG：Thammasat University
+PER：
+LOC：
+
+
+##General:
+Kansai International Airport served 23 million international and domestic passengers .
+
+ORG：
+PER：
+LOC：Kansai International Airport
+
+
+##General:
+Kobe Airport is the region 's newest airport , and has mostly domestic services , with a few international charter flights , serving 2.3 million passengers .
+
+ORG：
+PER：
+LOC：Kobe Airport
+
+
+##General:
+In 1946 , after the liberation of Korea from Japanese control , Chung started Hyundai and Hyundai Civil Industries in anticipation of the post-war reconstruction and industrialization .
+
+ORG：
+PER：
+LOC：Korea,Japanese
+
+
+##General:
+Chung won major government contracts and became responsible for building much of South Korea 's transportation infrastructure , including the Soyang Dam in 1967 , the Gyeongbu Expressway in 1970 , the world 's largest shipyard in Ulsan , the Kori Nuclear Power Plant among others .
+
+ORG：
+PER：
+LOC：South Korea,Gyeongbu,Ulsan
+
+
+##General:
+Chung also won contracts from the American military to build facilities for their personnel as his younger brother could speak English and was on good terms with the U.S. Army engineers .
+
+ORG：U.S. Army
+PER：
+LOC：American
+
+
+##Healthcare:
+Nutter died in 1992 at the Cromwell Hospital in London of complications from AIDS .
+
+ORG：
+PER：
+LOC：London
+
+
+##General:
+In 2018 `` House of Nutter : The Rebel Tailor of Savile Row `` a biography of Nutter , with reminiscences by his brother David , a New York celebrity photographer , was published ; it was written by Lance Richardson .
+
+ORG：
+PER：David,Lance Richardson
+LOC：New York
+
+
+##General:
+Most Fridays , listeners visiting Nashville are invited to the Jimmy Buffett 's Margaritaville Cafe to become a part of the show called the `` Music Row Happy Hour `` with Buzz Brainard .
+
+ORG：
+PER：Buzz Brainard
+LOC：Nashville
+
+
+##General:
+Most Iraqi reconstruction efforts have been devoted to the restoration and repair of badly damaged urban infrastructure .
+
+ORG：
+PER：
+LOC：Iraqi
+
+
+##General:
+More visible efforts at reconstruction through private development , like architect and urban designer Hisham N. Ashkouri 's Baghdad Renaissance Plan and the Sindbad Hotel Complex and Conference Center have also been made .
+
+ORG：
+PER：
+LOC：Sindbad Hotel Complex
+
+
+##General:
+In late 2009 , a construction plan was proposed to rebuild the heart of Baghdad , but the plan was never realized because corruption was involved in it .
+
+ORG：
+PER：
+LOC：Baghdad
+
+
+##Healthcare:
+He did clinical training at the Middlesex Hospital in London , and qualified as a medical doctor in 1943 .
+
+ORG：
+PER：
+LOC：London
+
+
+##General:
+Subsequent to Shippingport 's decommissioning , three other large commercial reactors have been entirely leveled : Yankee Rowe Nuclear Power Station having been entirely decommissioned in 2007 with the U.S. Nuclear Regulatory Commission ( NRC ) notifying Yankee that August that the former plant site had been fully decommissioned in accordance with NRC procedures and regulations ; Maine Yankee Nuclear Power Plant completely decommissioned in 2005 ;
+
+ORG：U.S. Nuclear Regulatory Commission ( NRC ),NRC
+PER：
+LOC：Shippingport
+
+
+##General:
+She began working for Raymond Blanc , first at Le Manoir aux Quat ' Saisons and then as a pastry chef at his Diamond Club within the Emirates Stadium .
+
+ORG：
+PER：
+LOC：Le Manoir aux Quat ' Saisons,Emirates Stadium
+
+
+##General:
+She was then hired as head chef for Polpetto , located in The French House , Soho .
+
+ORG：
+PER：
+LOC：Polpetto,The French House,Soho
+
+
+##General:
+The restaurant was intended to be the smaller , more casual version of the restaurant Polpo with the same menu .
+
+ORG：
+PER：
+LOC：Polpo
+
+
+##General:
+However , over time , Knight convinced owners Russell Norman and Richard Beatty to let her modify the menu , which was Venetian .
+
+ORG：
+PER：
+LOC：Venetian
+
+
+##General:
+In crossing the Thames Estuary , rail tunnels and local road links could be integrated into the flood protection barrier , similar in concept to integration of the Saint Petersburg Ring Road in the Saint Petersburg Dam in Russia .
+
+ORG：
+PER：
+LOC：Russia
+
+
+##General:
+Heriot-Makgill did not see active service again until 1882 , when he took part in the Anglo-Egyptian War , and was present at the battle of Tell El Kebir ( September 1882 ) , for which he was mentioned in dispatches , received the Egypt Medal with clasp and the 3rd class of the Order of Medjidie , and was appointed a Companion of the Order of the Bath ( CB ) .
+
+ORG：
+PER：Heriot-Makgill
+LOC：
+
+
+##General:
+After promotion to colonel on 20 December 1883 , he served in the Nile Expedition 1884–1885 , and was attached to the Sudan Frontier Field Force in 1885–1886 as Commanding Royal Engineer in Egypt , in which capacity he acted during the action at Giniss .
+
+ORG：Sudan Frontier Field Force
+PER：
+LOC：Egypt,Giniss
+
+
+##General:
+Woodridge is a village in DuPage County , Illinois , with portions in Will and Cook counties , and a south-western suburb of Chicago .
+
+ORG：
+PER：
+LOC：Woodridge,DuPage County,Illinois,Will,Cook,Chicago
+
+
+##General:
+Woodridge is the home of the Home Run Inn pizzeria chain and was the home of Pabst Brewing Company from 2006 to 2011 .
+
+ORG：Pabst Brewing Company
+PER：
+LOC：Woodridge,Home Run Inn pizzeria chain
+
+
+##General:
+It also houses the Burton Historical Collection ( named for historian and donor Clarence M. Burton ) , the E. Azalia Hackley Collection ( named for Emma Azalia Hackley ) , and the National Automotive History Collection .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+Additionally , there are online collections , including one on Detroit Tigers and Baseball Hall of Fame radio broadcaster Ernie Harwell .
+
+ORG：Detroit Tigers,Baseball Hall of Fame
+PER：Ernie Harwell
+LOC：
+
+
+##General:
+The Ernie Harwell Online Exhibit is part of the Burton Historical Collection .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+Roxana is served by Amtrak in Alton , St. Louis Regional Airport ( formerly known as Civic Memorial Airport ) in Bethalto , and Lambert-St. Louis International Airport .
+
+ORG：Amtrak
+PER：
+LOC：Roxana,Alton,St. Louis Regional Airport,Civic Memorial Airport,Bethalto,Lambert-St. Louis International Airport
+
+
+##General:
+In June 2013 , Costas provided the voice of God in the Monty Python musical `` Spamalot `` at The Muny Repertory in St. Louis .
+
+ORG：
+PER：
+LOC：St. Louis
+
+
+##General:
+Lauda Air Luftfahrt GmbH , branded as Lauda Air , was an Austrian airline headquartered at Vienna International Airport in Schwechat .
+
+ORG：Lauda Air Luftfahrt GmbH,Lauda Air
+PER：
+LOC：Austrian,Vienna International Airport,Schwechat
+
+
+##General:
+It was owned by Niki Lauda during much of its existence , later becoming a charter airline subsidiary for leisure operations of Austrian Airlines .
+
+ORG：Austrian Airlines
+PER：
+LOC：
+
+
+##General:
+On 6 April 2013 , Lauda Air ceased to exist and was replaced by `` Austrian myHoliday `` , a new brand name that is used for flights and leisure offers provided by Austrian Airlines .
+
+ORG：Lauda Air,Austrian myHoliday,Austrian Airlines
+PER：
+LOC：
+
+
+##General:
+The Norman Mayer Branch of the New Orleans Public Library is in Gentilly .
+
+ORG：
+PER：
+LOC：Gentilly
+
+
+##General:
+It was damaged in Hurricane Katrina .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+The post- Katrina temporary library , located in a strip center , had 19 computers .
+
+ORG：
+PER：
+LOC：
+
+
+##Theaters:
+In 2012 , Levy was cast in a major role alongside Danny DeVito and Richard Griffiths in the comedy `` The Sunshine Boys `` at the Savoy Theatre as DeVito 's nephew .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+The 2010 Pro Bowl was the National Football League 's all-star game for the 2009 season .
+
+ORG：National Football League
+PER：
+LOC：
+
+
+##SportsEvents:
+It took place at 8:00 PM EST on Sunday , January 31 , 2010 , at Sun Life Stadium in Miami Gardens , Florida , the home stadium of the Miami Dolphins and host site of Super Bowl XLIV .
+
+ORG：Miami Dolphins
+PER：
+LOC：Sun Life Stadium,Miami Gardens,Florida
+
+
+##General:
+Born in July 1769 at Bury St. Edmunds , he was the son of Richard Yates ( 1741–1803 ) .
+
+ORG：
+PER：
+LOC：Bury St. Edmunds
+
+
+##General:
+He was educated at Bury grammar school , but left it at the age of 15 to take a post as usher in a school at Linton , Cambridgeshire .
+
+ORG：
+PER：
+LOC：Bury,Linton,Cambridgeshire
+
+
+##General:
+In 1789 he was a teacher at Chelmsford grammar school , and in 1792 at a school in Hammersmith .
+
+ORG：
+PER：
+LOC：Chelmsford,Hammersmith
+
+
+##Theaters:
+In 2003 , he appeared as former West German federal chancellor Willy Brandt in Michael Frayn 's play `` Democracy `` which opened at the Cottesloe Theatre , in the Royal National Theatre .
+
+ORG：
+PER：Michael Frayn
+LOC：
+
+
+##General:
+He stayed with the show for its transfer to the West End .
+
+ORG：
+PER：
+LOC：West End
+
+
+##General:
+In December 2004 and January 2005 , Allam appeared as the villainous Abanazar in a pantomime of `` Aladdin `` at the Old Vic theatre , co-starring Ian McKellen , Maureen Lipman and Sam Kelly .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+In August 2005 , Allam appeared in `` Blackbird `` by David Harrower alongside Jodhi May at the Edinburgh Festival in a production by German star director Peter Stein .
+
+ORG：
+PER：David Harrower,Peter Stein
+LOC：
+
+
+##Theaters:
+The play transferred to the Albery Theatre in London in February 2006 .
+
+ORG：
+PER：
+LOC：London
+
+
+##General:
+`` Blackbird `` subsequently won a best new play award .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+However , Gunter began to grow again in the 1950s , and experienced its greatest growth in the last two decades , growing 37 % in population during the 1990s .
+
+ORG：
+PER：
+LOC：Gunter
+
+
+##General:
+Gunter has started to experience overflow growth from the northern Metroplex suburbs , due to its location on State Highway 289 approximately north of Celina , as well as its proximity to the Sherman - Denison metropolitan area and nearby Lake Texoma .
+
+ORG：
+PER：
+LOC：Gunter,State Highway 289,Celina,Sherman,Denison
+
+
+##General:
+Recent developments include the opening of a Sonic Drive-In and a Dollar General .
+
+ORG：Sonic Drive-In,Dollar General
+PER：
+LOC：
+
+
+##General:
+In May 2002 , a branch of Ada , Oklahoma -based Landmark Bank opened in Gunter , providing the town its first financial institution in nearly 90 years .
+
+ORG：Ada,Oklahoma
+PER：
+LOC：Gunter
+
+
+##General:
+The power station opened in 2001 as Shotton CHP Ltd , when owned by TXU Europe .
+
+ORG：Shotton CHP Ltd,TXU
+PER：
+LOC：Europe
+
+
+##General:
+The plant was near the site of UPM 's Shotton paper mill and provided steam , condensate and power to the paper mill and fed surplus electricity into the National Grid .
+
+ORG：UPM,Shotton,National Grid
+PER：
+LOC：
+
+
+##General:
+It is near steelworks owned by Corus Group .
+
+ORG：Corus Group
+PER：
+LOC：
+
+
+##General:
+In December 2002 , TXU had financial problems when the price of electricity plummeted .
+
+ORG：TXU
+PER：
+LOC：
+
+
+##General:
+In October 2003 , the plant was bought by Gaz de France ( GdF ) , being their only power station in the UK until the company bought the Teesside power station in February 2008 .
+
+ORG：Gaz de France,GdF
+PER：
+LOC：UK
+
+
+##General:
+Late 2008 Gaz de France merged with Suez ( a major global utility company ) to form GDF Suez .
+
+ORG：Gaz de France,Suez
+PER：
+LOC：
+
+
+##General:
+The facility was designed by Nicholas Hare Architects and has won several design awards .
+
+ORG：Nicholas Hare Architects
+PER：
+LOC：
+
+
+##Theaters:
+In 2016 , he played the title role in Doug Hughes ' production of the US premiere of Florian Zeller 's play `` The Father `` at the Samuel J. Friedman Theatre on Broadway .
+
+ORG：
+PER：
+LOC：US
+
+
+##General:
+He won his career fourth Tony Award for his performance .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+That same year he appeared in `` Captain Fantastic `` alongside Viggo Mortensen and was again nominated with the ensemble cast for the Screen Actors Guild Award .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+He also starred in the HBO television movie `` All the Way `` ( 2016 ) as Senator Richard Russell Jr . alongside Bryan Cranston 's Lyndon B. Johnson .
+
+ORG：HBO
+PER：Richard Russell Jr .
+LOC：
+
+
+##General:
+Langella received a Critics ' Choice Television Award for Best Supporting Actor in a Movie/Miniseries nomination for his performance .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+Another major project undertaken by Western Pipe & amp ; Steel in the interwar years was for construction of the large calibre water transport pipes between the O'Shaughnessy Dam in the Hetch Hetchy Valley to the Crystal Springs Reservoir on the San Francisco Peninsula , and its subsequent extension from San Mateo to San Francisco .
+
+ORG：Western Pipe & amp ; Steel
+PER：
+LOC：Hetch Hetchy Valley,San Francisco Peninsula,San Mateo,San Francisco
+
+
+##General:
+Today , the Dam supplies water to 2.4 million San Franciscans .
+
+ORG：
+PER：
+LOC：San Franciscans
+
+
+##General:
+The company also worked at this time on a pipeline for Everett , Washington .
+
+ORG：
+PER：
+LOC：Everett,Washington
+
+
+##General:
+Jesse Steven Koochin ( April 15 , 1998 – November 19 , 2004 ) was a 6-year-old American boy who became the center of a legal battle between his parents , Steve and Gayle Koochin , and Primary Children 's Medical Center in Salt Lake City .
+
+ORG：
+PER：
+LOC：Salt Lake City
+
+
+##General:
+Delaney was born in Leeds , where his father was a foundryman and his mother a seamstress .
+
+ORG：
+PER：
+LOC：Leeds
+
+
+##General:
+After some theatre workshop courses , headed by David Morton , the then Leeds Education Authority Inspector for Drama , Delaney had a period at Jacob Kramer College of Art .
+
+ORG：Leeds Education Authority,Jacob Kramer College of Art
+PER：
+LOC：
+
+
+##Theaters:
+After crewing many shows at the Leeds Grand Theatre he became an assistant stage manager at the Leeds Playhouse and then Stage Manager for Leeds Theatre in Education in his native city , and then a theatre carpenter at the Northcott Theatre in Exeter .
+
+ORG：
+PER：
+LOC：Exeter
+
+
+##General:
+On the afternoon of 20 May 1990 Wall fell at Simpson's-in-the-Strand in central London , fracturing his skull .
+
+ORG：
+PER：
+LOC：Simpson's-in-the-Strand,London
+
+
+##General:
+Nevada Solar One generates 64MW of power and in Boulder City , Nevada , and was built by the U.S. Department of Energy ( DOE ) , National Renewable Energy Laboratory ( NREL ) , and Solargenix Energy .
+
+ORG：Solargenix Energy
+PER：
+LOC：Boulder City,Nevada
+
+
+##General:
+Nevada Solar One started producing electricity in June 2007 .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+Hayden 's works are held in several major museum collections worldwide , including the Tate Modern in London , The Museum of Modern Art in New York , The Carnegie Museum of Art in Pittsburgh , Centre Pompidou in Paris .
+
+ORG：
+PER：Hayden
+LOC：London,New York,The Carnegie Museum of Art,Pittsburgh,Paris
+
+
+##General:
+The Hardee 's Fried Chicken 250 was Held March 2 at Richmond International Raceway .
+
+ORG：
+PER：
+LOC：Richmond International Raceway
+
+
+##General:
+Queens Library at Flushing is home to the International Resource Center ( IRC ) .
+
+ORG：
+PER：
+LOC：Flushing
+
+
+##General:
+Queens Library at Flushing has collections in many non- English languages , including Bengali , Chinese , French , Gujarati , Hindi , Italian , Korean , Portuguese , Punjabi , Russian , Spanish , and Urdu .
+
+ORG：
+PER：
+LOC：Flushing
+
+
+##General:
+His music is constantly performed at the `` Piwnica Artystyczna Kurylewiczów `` in Warsaw and regularly at Steinway Hall in London ; the complete list of his works is available on the website of the Piwnica Artystyczna Kurylewiczów and Fundacja Forma .
+
+ORG：
+PER：
+LOC：Warsaw,London
+
+
+##General:
+Dar al-Manasir with all its villages and agricultural land will be successively flooded in the coming months by the Merowe Dam project .
+
+ORG：
+PER：
+LOC：Dar al-Manasir
+
+
+##General:
+Brylcream Boulevard is a 1995 Belgo Dutch comedy film , which was directed by Robbe De Hert .
+
+ORG：
+PER：Robbe De Hert
+LOC：
+
+
+##General:
+In 1994 , the Maloof family opened the Fiesta Rancho hotel-casino in North Las Vegas , and sold it in 2000 for over $ 185 million .
+
+ORG：
+PER：
+LOC：Fiesta Rancho,North Las Vegas
+
+
+##General:
+The money was reinvested into the creation of the Palms Casino Resort hotel and casino .
+
+ORG：
+PER：
+LOC：Palms Casino Resort
+
+
+##General:
+In 2000 , the Mitchel Athletic Complex hosted two matches of the 2000 Lamar Hunt U.S. Open Cup .
+
+ORG：
+PER：
+LOC：Mitchel Athletic Complex
+
+
+##General:
+A third round match between the Tampa Bay Mutiny and the MetroStars , now the New York Red Bulls , of Major League Soccer and a semi-final match between the Miami Fusion and the MetroStars with the MetroStars falling in the semi-final .
+
+ORG：Tampa Bay Mutiny,MetroStars,New York Red Bulls,Major League Soccer,Miami Fusion,MetroStars,MetroStars
+PER：
+LOC：
+
+
+##General:
+In 2002 , the Complex hosted a quarter-final match of the 2002 Lamar Hunt U.S. Open Cup between the Columbus Crew and the MetroStars .
+
+ORG：Columbus Crew,MetroStars
+PER：
+LOC：
+
+
+##General:
+The nearest railway station is at Vatakara , away .
+
+ORG：
+PER：
+LOC：Vatakara
+
+
+##General:
+A Thalassery–Manathavady–Mysore railway line is being planned .
+
+ORG：
+PER：
+LOC：Thalassery–Manathavady–Mysore
+
+
+##General:
+The nearest airport is Kannur International Airport at Mattannur , away .
+
+ORG：
+PER：
+LOC：Kannur International Airport,Mattannur
+
+
+##General:
+Mysore Airport is away , followed by Kozhikode International Airport at and Bengaluru International Airport at .
+
+ORG：
+PER：
+LOC：Mysore Airport,Kozhikode International Airport,Bengaluru International Airport
+
+
+##General:
+In January 2009 , Grand Central had their application for train paths to run a Bradford Interchange ( via Halifax ) to London service accepted by the Office of Rail Regulation .
+
+ORG：
+PER：
+LOC：Grand Central,Bradford Interchange,Halifax,London
+
+
+##General:
+Before her death , Scott lived in a bedsit in Pimlico in poverty .
+
+ORG：
+PER：
+LOC：Pimlico
+
+
+##Healthcare:
+She was diagnosed with cancer and died at age 66 at the Royal Marsden Hospital , London , in 1988 .
+
+ORG：
+PER：
+LOC：London
+
+
+##General:
+Cardiff Airport is the only airport in Wales that offers international scheduled flights and is also served by scheduled , low-fare , business and charter carriers .
+
+ORG：
+PER：
+LOC：Cardiff Airport,Wales
+
+
+##Healthcare:
+Chin was taken to Henry Ford Hospital in Detroit , where a nurse told his childhood friend that `` he has no chance '' and that `` his brain was dead . ''
+
+ORG：
+PER：
+LOC：Detroit
+
+
+##General:
+Past authors who have participated include Yann Martel , Bernard Schlink , Joyce Carol Oates and William Gibson .
+
+ORG：
+PER：Yann Martel,Bernard Schlink,Joyce Carol Oates,William Gibson
+LOC：
+
+
+##General:
+The Incite reading series takes place in Downtown Vancouver at the Alice McKay room of the Vancouver Public Library Central Branch .
+
+ORG：
+PER：
+LOC：Vancouver
+
+
+##General:
+Another early ambulance service was founded by Jaromir V. Mundy , Count J. N. Wilczek , and Eduard Lamezan-Salins in Vienna after the disastrous fire at the Vienna Ringtheater in 1881 .
+
+ORG：
+PER：
+LOC：Vienna
+
+
+##General:
+Named the `` Vienna Voluntary Rescue Society , '' it served as a model for similar societies worldwide .
+
+ORG：Vienna Voluntary Rescue Society
+PER：
+LOC：
+
+
+##General:
+Shadoe Stevens ( ; ) is an American radio host , voiceover actor , and television personality .
+
+ORG：
+PER：
+LOC：American
+
+
+##General:
+He was the host of `` American Top 40 `` from 1988 to 1995 .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+He currently hosts the internationally syndicated radio show , `` Top of the World , '' and co-hosts `` Mental Radio `` , an entertaining approach to UFOs and paranormal topics .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+He was co-founder and creator of Sammy Hagar 's rock station `` Cabo Wabo Radio `` which broadcast from the Cabo Wabo Cantina in Cabo San Lucas , Mexico .
+
+ORG：
+PER：
+LOC：Cabo Wabo Cantina,Cabo San Lucas,Mexico
+
+
+##General:
+In television , he was the announcer for `` The Late Late Show with Craig Ferguson `` on CBS and , as of July 2015 , serves as the primary continuity announcer for the Antenna TV network .
+
+ORG：CBS,Antenna
+PER：
+LOC：
+
+
+##General:
+in the Off- Broadway musical `` Altar Boyz `` .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+Stevens is also often heard on `` Hits & amp ; Favorites `` , calling in at least once a week to share wisdom with his brother Richard Stevens and their friend Lori St. James .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+Gallagher played with Stranraer for 10 years , during which time he captained the team and helped them win the Scottish Second Division title ( 1994 ) and the Scottish Challenge Cup in 1996 .
+
+ORG：Stranraer,Scottish Second Division
+PER：
+LOC：
+
+
+##General:
+He was awarded a testimonial match against Rangers at Stair Park on 20 July 1997 .
+
+ORG：Rangers
+PER：
+LOC：
+
+
+##General:
+Trawsfynydd was the largest intermediate settlement and station on the route .
+
+ORG：
+PER：
+LOC：Trawsfynydd
+
+
+##General:
+On the line as a whole only Bala , and Trawsfynydd had two platforms and only Bala , Trawsfynydd and the goods yard at in Blaenau had an engine shed , the last two only being capable of housing a single locomotive .
+
+ORG：
+PER：
+LOC：Bala,Trawsfynydd,Bala,Trawsfynydd,Blaenau
+
+
+##General:
+Trawsfynydd shed - a sub-shed of Croes Newydd - was proposed for closure in 1955 , but was reprieved due to the strength of local opposition , whose key argument was that having such a shed enabled the railway to take action to prevent blockages in the event of sudden or prolonged snow - a noted feature of the upper reaches of the line .
+
+ORG：
+PER：
+LOC：Trawsfynydd,Croes Newydd
+
+
+##General:
+The Hotel Negresco on the Promenade des Anglais was named after Henri Negresco ( 1868–1920 ) who had the palatial hotel constructed in 1912 .
+
+ORG：
+PER：
+LOC：Hotel Negresco,Promenade des Anglais
+
+
+##General:
+In keeping with the conventions of the time , when the Negresco first opened in 1913 its front opened on the side opposite the Mediterranean .
+
+ORG：
+PER：
+LOC：Mediterranean
+
+
+##General:
+Bindrim died on Dec. 17 1997 at Cedars-Sinai Medical Center in Los Angeles , he was 77 .
+
+ORG：
+PER：
+LOC：Los Angeles
+
+
+##General:
+Palmer met Canadian writer Ann-Marie MacDonald at the 1987 Groundswell Festival .
+
+ORG：
+PER：Ann-Marie MacDonald
+LOC：
+
+
+##General:
+Palmer and MacDonald married in July 2003 following the legalization of same sex marriage in Ontario .
+
+ORG：
+PER：MacDonald
+LOC：
+
+
+##General:
+Charles Herrick Compton ( October 24 , 1880 – March 17 , 1966 ) was an American librarian and educator .
+
+ORG：
+PER：
+LOC：American
+
+
+##General:
+Compton earned a degree from the University of Nebraska in 1901 and then attended the New York State library School from 1905 to 1908 .
+
+ORG：University of Nebraska,New York State library School
+PER：
+LOC：
+
+
+##General:
+He worked for the Seattle Public Library from 1910 to 1917 and left to work for the American Library Association during the first world war , buying books for the Library War Service .
+
+ORG：American Library Association,Library War Service
+PER：
+LOC：
+
+
+##General:
+Jean Dasté , born Jean Georges Gustave Dasté , ( 18 September 1904 in Paris , France – 15 October 1994 in Saint-Priest-en-Jarez , Loire , France ) was an actor and theatre director .
+
+ORG：
+PER：
+LOC：Paris,France,Saint-Priest-en-Jarez,Loire,France
+
+
+##General:
+In Las Vegas , she played at the Thunderbird , then Caesar 's Palace in Nero 's Lounge .
+
+ORG：
+PER：
+LOC：Las Vegas,Thunderbird,Caesar 's Palace
+
+
+##General:
+She returned to Miami Beach to play at venues including Harry 's American Showroom at the Eden Roc , the Red Room at the Saxony , the Hotel Plaza in Joe 's Lounge for Lovers , and Sans Souci lounge .
+
+ORG：
+PER：
+LOC：Miami Beach,Eden Roc,Saxony,Hotel Plaza
+
+
+##General:
+She was usually accompanied by Margie Sherwin on piano .
+
+ORG：
+PER：Margie Sherwin
+LOC：
+
+
+##SportsEvents:
+Asgiriya Stadium , ( ) is a cricket stadium situated in Kandy , Sri Lanka .
+
+ORG：
+PER：
+LOC：Asgiriya Stadium,Kandy,Sri Lanka
+
+
+##General:
+Asgiriya Stadium is the private property of Trinity College , Kandy .
+
+ORG：Trinity College
+PER：
+LOC：Asgiriya Stadium,Kandy
+
+
+##General:
+The venue would usually be used when an international team toured Sri Lanka for a Test Match .
+
+ORG：
+PER：
+LOC：Sri Lanka
+
+
+##General:
+Asgiriya became Sri Lanka 's the second Test venue , after the Paikiasothy Saravanamuttu Stadium , when it hosted Greg Chappell ’ s Australian cricket team in Sri Lanka in 1982–83 .
+
+ORG：
+PER：
+LOC：Asgiriya,Sri Lanka,Paikiasothy Saravanamuttu Stadium,Sri Lanka
+
+
+##General:
+Flint was born in Edinburgh on 4 April 1880 and was educated at Daniel Stewart 's College and then Edinburgh Institution .
+
+ORG：Daniel Stewart 's College,Edinburgh Institution
+PER：
+LOC：Edinburgh
+
+
+##General:
+From 1894 to 1900 Flint was apprenticed as a lithographic draughtsman while taking classes at the Royal Institute of Art , Edinburgh .
+
+ORG：Royal Institute of Art
+PER：
+LOC：Edinburgh
+
+
+##General:
+From 1900 to 1902 he worked as a medical illustrator in London while studying part-time at the Heatherley School of Fine Art .
+
+ORG：Heatherley School of Fine Art
+PER：
+LOC：London
+
+
+##General:
+He was an artist for `` The Illustrated London News `` from 1903 to 1907 , and produced illustrations for editions of several books , including H Rider Haggard 's `` King Solomon 's Mines `` ( 1907 edition ) , W. S. Gilbert 's `` Savoy Operas `` ( 1909 ) , Sir Thomas Malory 's `` Le Morte d'Arthur `` ( 1910–1911 ) and Chaucer 's `` The Canterbury Tales `` ( 1912 ) .
+
+ORG：The Illustrated London News
+PER：H Rider Haggard,W. S. Gilbert,Sir Thomas Malory,Chaucer
+LOC：
+
+
+##General:
+Under the leadership of owner/general manager Dart Clark and head coach Chris Williams , the team played their home games at the Santa Ana Star Center in Rio Rancho , New Mexico .
+
+ORG：
+PER：
+LOC：Santa Ana Star Center,Rio Rancho,New Mexico
+
+
+##General:
+The online portal Greenpilot is a service provided by the German National Library of Medicine , ZB MED .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+Walt Disney Parks and Resorts comprises Disneyland Resort in California , Walt Disney World Resort in Florida , Tokyo Disney Resort , Disneyland Resort Paris and Hong Kong Disneyland Resort .
+
+ORG：
+PER：
+LOC：California,Florida,Tokyo,Paris,Hong Kong
+
+
+##General:
+In addition , Rasulo oversaw Disney Cruise Line , Walt Disney Imagineering , Walt Disney Creative Entertainment and Disney Regional Entertainment , which operated the ESPN Zone sports-themed restaurants .
+
+ORG：Disney Cruise Line,Walt Disney Imagineering,Walt Disney Creative Entertainment,Disney Regional Entertainment,ESPN Zone
+PER：
+LOC：
+
+
+##General:
+In 1915 he was hired as musical director for the New York Hippodrome after the previous music director , Manuel Klein , left abruptly after a disagreement with Lee Shubert and Jacob J. Shubert .
+
+ORG：
+PER：Manuel Klein
+LOC：
+
+
+##General:
+Hubbell also wrote the score for `` Good Times `` , which ran for 456 performances at the New York Hippodrome .
+
+ORG：
+PER：Hubbell
+LOC：
+
+
+##Music:
+The song he is most remembered for , `` Poor Butterfly `` , was written for one of the first shows he wrote for the Hippodrome , `` The Big Show `` .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+The Indiana University Dance Marathon , commonly known as IU Dance Marathon or IUDM , is a 36-hour Dance Marathon that takes place every November at Indiana University with the purpose of raising both funding and awareness for pediatric care .
+
+ORG：Indiana University
+PER：
+LOC：
+
+
+##General:
+In 1991 , student Jill Stewart started IU Dance Marathon in honor of her friend , Ryan White , who died from AIDS the year before .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+Matches were played at three grounds – Kensington Oval in Bridgetown , Barbados ; Providence Stadium in Providence , Guyana ; and Beausejour Stadium in Gros Islet , Saint Lucia .
+
+ORG：
+PER：
+LOC：Kensington Oval,Bridgetown,Barbados,Providence Stadium,Providence,Guyana,Beausejour Stadium,Gros Islet,Saint Lucia
+
+
+##General:
+It commences at Mundaring Weir and proceeds through Chidlow , Wooroloo , Wundowie , Bakers Hill and Clackline to Northam , for approximately .
+
+ORG：
+PER：
+LOC：Mundaring Weir,Chidlow,Wooroloo,Wundowie,Bakers Hill,Clackline,Northam
+
+
+##General:
+It is based on the route of the former Western Australian Government Railways Eastern Railway from Mundaring to Clackline , then following the Goldfields Water Supply Scheme pipeline route through to Northam .
+
+ORG：
+PER：
+LOC：Western Australian Government Railways Eastern Railway,Mundaring,Clackline,Northam
+
+
+##General:
+Kovács received the Sjöstrand Medal in Physiology from the Swedish Society of Clinical Physiology and Medicine in 2007 .
+
+ORG：Swedish Society of Clinical Physiology and Medicine
+PER：
+LOC：
+
+
+##General:
+He was elected President of the Cardiovascular System Dynamics Society ( CSDS ) in 2006 and served until 2008 .
+
+ORG：Cardiovascular System Dynamics Society,CSDS
+PER：
+LOC：
+
+
+##General:
+He is a recipient of the Öcsi Bácsi Award of Caltech 's TAPIR Group .
+
+ORG：Caltech,TAPIR Group
+PER：
+LOC：
+
+
+##General:
+He is a distinguished foreign member of the Hungarian Society of Cardiology .
+
+ORG：Hungarian Society of Cardiology
+PER：
+LOC：
+
+
+##Healthcare:
+He has been elected twice as president of the Barnes-Jewish Hospital Medical Staff Association ( 2003-2004 and 2015-2016 ) and served as a member of the Board of Barnes-Jewish Hospital ( 2015-2016 ) .
+
+ORG：Barnes-Jewish Hospital Medical Staff Association
+PER：
+LOC：
+
+
+##Healthcare:
+He is the recipient of Barnes-Jewish Hospital Medical Association 's Lifetime Achievement `` Master Physician `` Award , April 2017 .
+
+ORG：Barnes-Jewish Hospital Medical Association
+PER：
+LOC：
+
+
+##General:
+All of his daughters were presented as debutantes to high society at the prestigious International Debutante Ball at the Waldorf-Astoria Hotel in New York City .
+
+ORG：
+PER：
+LOC：Waldorf-Astoria Hotel,New York City
+
+
+##General:
+In March 2015 , the health board ’ s new low-secure mental-health unit , Taith Newydd , opened in Bridgend , replacing some of the old wards at Cefn Coed .
+
+ORG：
+PER：
+LOC：Bridgend
+
+
+##General:
+Other new mental-health builds include the ARC Centre and Angelton Clinic in Bridgend , and Ty Einon in Swansea .
+
+ORG：
+PER：
+LOC：Bridgend,Swansea
+
+
+##Healthcare:
+The Dreadnought Seamen 's Hospital continues to the present day under the NHS as the ' Dreadnought Unit ' at St Thomas 's Hospital and the dedicated Hospital for Tropical Diseases , part of the University College Hospitals London NHS Trust .
+
+ORG：University College Hospitals London NHS Trust
+PER：
+LOC：
+
+
+##General:
+When Gantt returned from the War , he moved to Hawaii and opened `` Waikiki Beach `` , one of two archetypal tiki bars .
+
+ORG：
+PER：
+LOC：Waikiki Beach
+
+
+##General:
+The bar was designed to evoke the South Pacific , with palm trees , tiki masks on the walls , a garden hose that showered a gentle rain on the roof and a myna bird that was trained to shout `` Give me a beer , stupid ! ''
+
+ORG：
+PER：
+LOC：South Pacific
+
+
+##General:
+A Don the Beachcomber was located at Waikiki 's International Market Place .
+
+ORG：
+PER：
+LOC：Don the Beachcomber
+
+
+##General:
+Gino 's Hamburgers was a fast-food restaurant chain founded in Baltimore , Maryland , by Baltimore Colts defensive end Gino Marchetti and running back Alan Ameche , along with their close friends Joe Campanella and Louis Fischer , in 1957 .
+
+ORG：
+PER：
+LOC：Gino 's Hamburgers,Baltimore,Maryland
+
+
+##General:
+After a season-opening victory at the NAPA Auto Parts 300 , Bob Evans Restaurants came on board as the team 's sponsor .
+
+ORG：Bob Evans Restaurants
+PER：
+LOC：
+
+
+##General:
+He moved up to seventh in the standings the next season with one win , but chose to depart the team at the end of the season for NEMCO Motorsports .
+
+ORG：NEMCO Motorsports
+PER：
+LOC：
+
+
+##General:
+7 with a sponsorship from Kleenex , LaJoie won two more races but again fell to 12th in points .
+
+ORG：Kleenex
+PER：
+LOC：
+
+
+##General:
+The Westerville Public Library is a public library that serves the community of Westerville , Ohio , a suburb of Columbus , Ohio .
+
+ORG：
+PER：
+LOC：Westerville,Ohio,Columbus,Ohio
+
+
+##General:
+As a school district library , its geographic boundaries are defined by the Westerville City School District ( Franklin County , Ohio ) which straddles both Franklin County and Delaware County .
+
+ORG：
+PER：
+LOC：Westerville City School District,Franklin County,Ohio,Franklin County,Delaware County
+
+
+##General:
+All Ohio residents can apply for a Westerville Public Library card .
+
+ORG：
+PER：
+LOC：Ohio,Westerville Public Library
+
+
+##General:
+Ibell was President of the Institution of Structural Engineers in 2015 .
+
+ORG：Institution of Structural Engineers
+PER：
+LOC：
+
+
+##General:
+Ibell is an advisor to the Arup Foundation and a BRE Fellow
+
+ORG：Arup Foundation,BRE
+PER：
+LOC：
+
+
+##General:
+The company was founded in 1971 as Volunteer Capital Corporation by three Nashville businessmen , Jack C. Massey , Earl Beasley , Jr. and John Neff , Jr .
+
+ORG：Volunteer Capital Corporation
+PER：
+LOC：Nashville
+
+
+##General:
+The first restaurant was opened in Nashville , Tennessee in 1991 .
+
+ORG：
+PER：
+LOC：Nashville,Tennessee
+
+
+##Healthcare:
+Butterworth Hospital is a Provincial government funded hospital for the Mnquma Local Municipality area in Butterworth , Eastern Cape in South Africa .
+
+ORG：
+PER：
+LOC：Mnquma,Butterworth,Eastern Cape,South Africa
+
+
+##General:
+In 1991 , the World Health Assembly agreed that Guinea worm disease should be eradicated .
+
+ORG：World Health Assembly
+PER：
+LOC：
+
+
+##General:
+The Carter Center has continued to lead the eradication efforts , primarily through its Guinea Worm Eradication Program .
+
+ORG：Carter Center
+PER：
+LOC：
+
+
+##General:
+Clyde Rucker ( born May 23 , 1963 ) is an American entrepreneur and businessman who currently serves as Chief Executive Officer ( CEO ) of Rucker Restaurant Holdings .
+
+ORG：Rucker Restaurant Holdings
+PER：
+LOC：
+
+
+##General:
+As of 2019 , he owns 80 Jack in the Box and Denny 's restaurants in Arizona and Texas .
+
+ORG：
+PER：
+LOC：Jack in the Box and Denny,Arizona,Texas
+
+
+##General:
+She made her debut at the Royal Opera House in London , as the Woodbird in `` Siegfried `` , in 1953 .
+
+ORG：
+PER：
+LOC：London
+
+
+##General:
+She also appeared at the Paris Opéra , the Vienna State Opera , and at the opera houses of Hamburg and Stockholm .
+
+ORG：
+PER：
+LOC：Hamburg,Stockholm
+
+
+##Theaters:
+In 1954 , she sang before Queen Elizabeth II and the King and Queen of Sweden at Covent Garden Theatre and performed at the Edinburgh International Festival
+
+ORG：
+PER：Queen Elizabeth II,King and Queen of Sweden
+LOC：
+
+
+##General:
+Toll emigrated to the United States at the age of 21 .
+
+ORG：
+PER：
+LOC：United States
+
+
+##General:
+He was ordained in 1871 and initially served as curate in the Grace Episcopal church until called to a pastorate in Cleveland , Ohio .
+
+ORG：
+PER：
+LOC：Cleveland,Ohio
+
+
+##General:
+In 1874 he was again transferred to the Episcopal Diocese of Chicago and became the Rector of St Peter 's Church at Sycamore where he remained for eight years .
+
+ORG：
+PER：
+LOC：Chicago,Sycamore
+
+
+##General:
+He later became Rector of the Christ Episcopal Church at Waukegan following which he was made Archdeacon of the Episcopal Diocese of Chicago .
+
+ORG：
+PER：
+LOC：Waukegan,Chicago
+
+
+##General:
+Stephen Sondheim said of Travis ' work on this production : `` I think what she 's done is absolutely brilliant ...
+
+ORG：
+PER：Travis
+LOC：
+
+
+##General:
+Two manuscript copies of early clinical lectures given by Rutherford on the wards of the Edinburgh Royal Infirmary survive as part of the Manchester Medical Manuscripts Collection held by special collections at the University of Manchester .
+
+ORG：University of Manchester
+PER：
+LOC：
+
+
+##Healthcare:
+Leone J. Peters died at the Hospital of the University of Pennsylvania in Philadelphia in 1988 following open-heart surgery .
+
+ORG：
+PER：
+LOC：Philadelphia
+
+
+##General:
+In August 2003 at a show at Sneaky Dee 's in Toronto , Eaton invited old friend Don Murray to join him on mandolin and trumpet , as well as drummer Blake Howard ( Guh , Slow Loris , Quadruped ) , accordionist and trumpeter John Whytock ( Arrogant Worms ) , bassist Scott Maynard and multi-instrumentalist Rob Carson ( both from The Quiet Revolution , but previously with By Divine Right and with Selina Martin ) .
+
+ORG：
+PER：Blake Howard,John Whytock,Scott Maynard,Rob Carson
+LOC：Toronto
+
+
+##Music:
+At only their third meeting , they travelled to the House of Miracles to record The World Was Hell to Us with Andy Magoffin , with songs that were entirely unrehearsed and mostly recorded live from the floor as first takes .
+
+ORG：
+PER：Andy Magoffin
+LOC：
+
+
+##General:
+Cantor appeared Off- Broadway for over 400 performances as Amshel Rothschild and occasionally as Nathan Rothschild in the critically acclaimed 1990–91 revival of `` The Rothschilds `` at Circle in the Square theater .
+
+ORG：
+PER：
+LOC：
+
+
+##Theaters:
+His other stage credits include Benedick in `` Much Ado About Nothing `` ( 1978 ) ; Tony Lumpkin in `` She Stoops to Conquer `` ( 1978 ) ; Infielder in `` Damn Yankees `` with Starlight Theatre in Kansas City , Missouri ( 1978 ) ; Matt in `` The Fantasticks `` in a production directed by the show ’ s creators , Tom Jones and Harvey Schmidt ( 1982 ) ; `` The Princess Pat `` ( 1981 ) ; John Adams in `` 1776 `` ( 1982 ) ; Charlie in `` Tintypes `` ( 1986 ) ; Stanley Jerome in both `` Brighton Beach Memoirs `` ( 1986 ) and `` Broadway Bound `` ( 1987 ) ; Seymour in `` Little Shop of Horrors `` ( 1987 ) ; Vernon Gersch in `` They 're Playing Our Song `` ( 1988 ) ; Benny in `` The Desert Song `` at North Shore Music Theatre ( 1988 ) .
+
+ORG：
+PER：Tom Jones,Harvey Schmidt
+LOC：Kansas City,Missouri
+
+
+##General:
+Cantor has performed principal roles in all of the Gilbert and Sullivan comic operas in the U.S . , Great Britain , and Italy .
+
+ORG：
+PER：
+LOC：U.S .,Great Britain,Italy
+
+
+##General:
+Launched in May 2011 , the Department of Physician Assistant Studies serves 90 graduate students .
+
+ORG：Department of Physician Assistant Studies
+PER：
+LOC：
+
+
+##General:
+One-of-a-kind in Mississippi , the MC program works with the University of Mississippi Medical Center in Jackson , federal clinics and other medical facilities .
+
+ORG：University of Mississippi Medical Center
+PER：
+LOC：Mississippi,Jackson
+
+
+##General:
+MC 's School of Law in Jackson serves students .
+
+ORG：
+PER：
+LOC：Jackson
+
+
+##General:
+The Western Reserve Historical Society opened Hale Farm in 1958 after receiving the property from Clara Belle Ritchie , descendant of Jonathan Hale .
+
+ORG：Western Reserve Historical Society
+PER：
+LOC：
+
+
+##General:
+In late September 2017 Applebee 's brought back its most famous slogan from the early-to-mid 2000s , `` Eatin ' Good in the Neighborhood . ''
+
+ORG：Applebee
+PER：
+LOC：
+
+
+##General:
+Stan Keller and His Orchestra performed in the 1940s at New York venues that included an 11-month engagement the Stork Club ( 1944–45 ) , the Waldorf , the Essex House , the Copacabana , and the Columbia Room at Hotel Astor .
+
+ORG：
+PER：Stan Keller
+LOC：New York,Hotel Astor
+
+
+##General:
+While performing at the Stork , Sherman Billingsley , the proprietor , often referred to Keller 's group as the `` Ork of Stork '' ( `` ork '' being colloquial for `` orchestra '' ) .
+
+ORG：
+PER：Keller
+LOC：
+
+
+##General:
+Members of his orchestra included Liberace ( piano ) , Bob Hames ( guitar ) and Carmen Cavallaro ( piano ) .
+
+ORG：
+PER：Liberace,Bob Hames,Carmen Cavallaro
+LOC：
+
+
+##General:
+Sonny Werblin of MCA booked Stan Keller and His Orchestra at the Hotel Astor with five radio broadcasts a week , coast-to-coast , on the CBS network .
+
+ORG：CBS
+PER：Stan Keller
+LOC：Hotel Astor
+
+
+##General:
+USWA founding president Philip Murray died in November 1952 , and David J. McDonald was named acting president by the USWA executive board .
+
+ORG：USWA,USWA
+PER：
+LOC：
+
+
+##General:
+In 1953 , the USWA executive board named McDonald president .
+
+ORG：USWA
+PER：
+LOC：
+
+
+##General:
+The Edsåsdalen ski area is accessible by the approximately long paved road from Undersåker .
+
+ORG：
+PER：
+LOC：Edsåsdalen,Undersåker
+
+
+##General:
+European route E14 passes Undersåker a few kilometres to the north , and connects with Östersund to the east and Trondheim , Norway , to the west .
+
+ORG：
+PER：
+LOC：European,Undersåker,Östersund,Trondheim,Norway
+
+
+##General:
+In Undersåker , there are also connections by railway to Östersund and Trondheim via the Central Line .
+
+ORG：
+PER：
+LOC：Undersåker,Östersund,Trondheim
+
+
+##General:
+Åre Östersund Airport and Trondheim Airport , Værnes , are the closest international airports .
+
+ORG：
+PER：
+LOC：Åre Östersund Airport,Trondheim Airport,Værnes
+
+
+##General:
+Phoebe Waterman Haas Public Observatory with a 16inch telescope is a U.S . public observatory located at the National Air and Space Museum in Washington , D.C .
+
+ORG：
+PER：
+LOC：U.S .,Washington,D.C
+
+
+##General:
+Prior to the French Revolution , he worked in the library of the duchesse de Villeroy , allowing him to indulge his literary tastes .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+Eva Astley Cooper liked to entertain and she invited many young celebrities to the Hall including Noël Coward , Malcolm Sargent , Charles Scott Moncrieff and the painter Philip Streatfeild .
+
+ORG：
+PER：Philip Streatfeild
+LOC：
+
+
+##Theaters:
+Scéno Plus past realizations include among others venues like the two first permanent Cirque du Soleil theatre in Las Vegas : the Treasure Island Showroom in Las Vegas ( hosting the show “ Mystère ” ) and the Bellagio Theatre ( hosting the show “ O ” ) as well as the Cirque du Soleil Theatre at Walt Disney World ’ s West Side District in Orlando .
+
+ORG：
+PER：
+LOC：Scéno Plus,Las Vegas,Las Vegas,Orlando
+
+
+##General:
+The firm also designed The Colosseum at Caesars Palace for the Celine Dion mega production A New Day and created the Wynn Casino Showroom that hosted the show Le Rêve directed by Franco Dragone .
+
+ORG：
+PER：Franco Dragone
+LOC：
+
+
+##General:
+The Uppsala University Library ( ) at Uppsala University in Uppsala , Sweden , consists of 11 subject libraries , one of which is housed in the old main library building , Carolina Rediviva .
+
+ORG：Uppsala University
+PER：
+LOC：Uppsala,Sweden
+
+
+##General:
+The restaurant was named after the son of co-owners Cecilia Pineda Feret and Chef Philippe Feret , who was an executive chef of Windows on the World restaurant , located in New York City , and a pastry chef at Taillevent restaurant , located in Paris , France .
+
+ORG：
+PER：
+LOC：Windows,New York City,Taillevent,Paris,France
+
+
+##General:
+Project Hayes was a controversial wind farm proposed for the Lammermoor Range of Otago , New Zealand .
+
+ORG：
+PER：
+LOC：Lammermoor Range,Otago,New Zealand
+
+
+##General:
+The project was developed by Meridian Energy from 2006 to 2012 at a cost of $ 8.9 million .
+
+ORG：Meridian Energy
+PER：
+LOC：
+
+
+##General:
+The Rainey Street neighborhood was rezoned as part of Austin 's central business district in 2004 .
+
+ORG：
+PER：
+LOC：Rainey Street,Austin
+
+
+##General:
+But while grander development has stalled , bars and eateries have flocked to Rainey , since CBD zoning enables traffic-heavy cocktail bar or restaurant use without any additional zoning request .
+
+ORG：
+PER：
+LOC：Rainey
+
+
+##General:
+In 1954 , CMC merged with Roosevelt University 's School of Music which had been founded in 1945 .
+
+ORG：CMC,Roosevelt University 's School of Music
+PER：
+LOC：
+
+
+##General:
+The name `` Chicago Musical College `` was retained for the new united college .
+
+ORG：Chicago Musical College
+PER：
+LOC：
+
+
+##Cars:
+All operations moved to join the university in the now national landmark Auditorium Building at 430 South Michigan Avenue in Chicago 's Loop .
+
+ORG：
+PER：
+LOC：430 South Michigan Avenue,Chicago
+
+
+##General:
+However , reclamation projects which started in the typhoon shelter during the late 1960s to construct the Cross-Harbour Tunnel decreased the size of the typhoon shelter .
+
+ORG：
+PER：
+LOC：Cross-Harbour Tunnel
+
+
+##General:
+The Charles V. Park Library at Central Michigan University is named after him .
+
+ORG：Central Michigan University
+PER：
+LOC：
+
+
+##General:
+He was born in Hill City , Kansas .
+
+ORG：
+PER：
+LOC：Hill City,Kansas
+
+
+##General:
+He married Frances Odenheimer on September 1 , 1917 in Los Angeles , California .
+
+ORG：
+PER：
+LOC：Los Angeles,California
+
+
+##Theaters:
+A San Francisco production opened at the Golden Gate Theatre on February 19 , 1985 , and ran through July 20 , concurrently with the original Broadway production .
+
+ORG：
+PER：
+LOC：San Francisco
+
+
+##General:
+Born in Linz , Schulz , violinist Gerhard Schulz ' older brother , received his first flute lessons from 1956 with Christiane Schwamberger and Willi Bauer at the Music School in Linz , followed by training with Rudolf Leitner at the Anton Bruckner Private University .
+
+ORG：Anton Bruckner Private University
+PER：Gerhard Schulz
+LOC：Linz,Linz
+
+
+##General:
+Below are the Philadelphia Flyers ' selections at the 2019 NHL Entry Draft , which was held on June 21 and 22 , 2019 , at the Rogers Arena in Vancouver , British Columbia .
+
+ORG：
+PER：
+LOC：Rogers Arena,Vancouver,British Columbia
+
+
+##General:
+Hattian Dupatta , also called Qasba Hattian Dupatta ( Urdu : ھٹیاں دوپٹہ ) is a historical town of Muzaffarabad District , Azad Kashmir , Pakistan .
+
+ORG：
+PER：
+LOC：Hattian Dupatta,Qasba Hattian Dupatta,Muzaffarabad District,Azad Kashmir,Pakistan
+
+
+##General:
+It is located 21 km from the Muzaffarabad toward Srinagar road .
+
+ORG：
+PER：
+LOC：Muzaffarabad,Srinagar
+
+
+##General:
+Looking for their first win of the season , the Dolphins traveled to Qualcomm Stadium to take on the San Diego Chargers .
+
+ORG：Dolphins,San Diego Chargers
+PER：
+LOC：Qualcomm Stadium
+
+
+##Theaters:
+The ballet was first presented by the Imperial Ballet on December 18/30 ( Julian/Gregorian calendar dates ) , 1858 , at the Imperial Bolshoi Kamenny Theatre in St. Petersburg , Russia .
+
+ORG：
+PER：
+LOC：St. Petersburg,Russia
+
+
+##General:
+In 1943 , the building was leased to WOR-Mutual Radio as a studio .
+
+ORG：WOR-Mutual Radio
+PER：
+LOC：
+
+
+##Theaters:
+The American National Theater and Academy purchased it in 1950 and renamed it the ANTA Theatre .
+
+ORG：American National Theater and Academy
+PER：
+LOC：
+
+
+##Theaters:
+In 1981 , the theatre was purchased by Jujamcyn Theaters and named the Virginia Theatre for owner and Jujamcyn Board member Virginia McKnight Binger .
+
+ORG：Jujamcyn Theaters,Jujamcyn Board
+PER：
+LOC：
+
+
+##General:
+El Cortez is a landmark hotel in San Diego , California .
+
+ORG：
+PER：
+LOC：El Cortez,San Diego,California
+
+
+##General:
+Built from 1926 to 1927 , the El Cortez was the tallest building in San Diego when it opened .
+
+ORG：
+PER：
+LOC：El Cortez,San Diego
+
+
+##General:
+It sits atop a hill at the north end of Downtown San Diego , where it dominated the city skyline for many years .
+
+ORG：
+PER：
+LOC：Downtown San Diego
+
+
+##General:
+Harvey Ovshinsky ’ s life and work is documented in the Harvey K. Ovshinsky Collection housed at the Bentley Historical Library at the University of Michigan .
+
+ORG：University of Michigan
+PER：
+LOC：
+
+
+##General:
+Tomorrow Square was designed by Richards Mixon of John Portman & amp ; Associates .
+
+ORG：John Portman & amp ; Associates
+PER：
+LOC：
+
+
+##General:
+It houses the JW Marriott Hotel Shanghai and the Tomorrow Square , Shanghai - Marriott Executive Apartments .
+
+ORG：
+PER：
+LOC：JW Marriott Hotel Shanghai,Shanghai
+
+
+##General:
+In the evening of 19 March 2003 , Task Force 20 , led by B squadron Delta Force ( accompanied by several Air Force Special Tactics teams , a Delta intelligence and targeting cell , several military working dog teams and two Iraqi- American interpreters ) , was the first US SOF unit to enter western Iraq as part of the initial infiltration before the main invasion .
+
+ORG：Task Force 20,B squadron Delta Force,Air Force Special Tactics teams,US SOF
+PER：
+LOC：American,western Iraq
+
+
+##General:
+They later assisted coalition SOF in the capture H-3 Air Base , Rangers were later flown in to garrison the base ; unofficially , Task Force 20 had been in Iraq , along with British SOF Task Force 7 and 14 , and the Australian SOF Task Force 64 .
+
+ORG：SOF,H-3 Air Base,Rangers,Task Force 20,British SOF Task Force 7 and 14,Australian SOF Task Force 64
+PER：
+LOC：Iraq
+
+
+##General:
+Delta Force then proceeded to the Haditha Dam complex ; it also conducted numerous deception operations to confuse the Iraqis as to the disposition of Coalition force s in the west .
+
+ORG：Delta Force,Coalition force
+PER：
+LOC：
+
+
+##General:
+Chewton Glen Hotel is situated in New Milton in Hampshire on the South Coast of England .
+
+ORG：
+PER：
+LOC：Chewton Glen Hotel,New Milton,Hampshire,England
+
+
+##Theaters:
+On leaving `` EastEnders `` in 2002 , Ryder , then aged 21 , performed as Justin Timberlake on `` Celebrity Stars in Their Eyes `` ( which he won ) , appeared in the pantomime `` Sleeping Beauty `` at the Marlowe Theatre in Canterbury and was cast in a recurring role on Five 's `` Family Affairs `` which he pulled out of when he learned that the series was soon to be axed .
+
+ORG：
+PER：Justin Timberlake
+LOC：Canterbury
+
+
+##General:
+In 2004 , he played a role in the ITV crime drama `` '' and appeared in a play broadcast on BBC Radio 4 .
+
+ORG：ITV,BBC
+PER：
+LOC：
+
+
+##General:
+Hamme is a Belgian association football club from Hamme in East Flanders .
+
+ORG：
+PER：
+LOC：Belgian,Hamme,East Flanders
+
+
+##General:
+It is currently playing in the Belgian Third Division .
+
+ORG：Belgian Third Division
+PER：
+LOC：
+
+
+##Healthcare:
+The building was constructed as part of the Rotunda Hospital in 1764 as an assembly hall and social rooms on what is now called Parnell Street .
+
+ORG：
+PER：
+LOC：Rotunda Hospital
+
+
+##General:
+The healthcare system developed under the US naval administration after World War II when the US Navy sponsored students to train as medical and nurse assistants in Guam .
+
+ORG：US Navy
+PER：
+LOC：US,Guam
+
+
+##General:
+There was a program of dispensary building in the 1960s , followed by the construction of hospitals , both financed and staffed by the US government .
+
+ORG：
+PER：
+LOC：US
+
+
+##General:
+Under the Pacific Island Health Care Program patients were sent to Tripler Army Medical Center in Hawaii for treatment not available in Micronesia .
+
+ORG：Pacific Island Health Care Program,Tripler Army Medical Center
+PER：
+LOC：Hawaii,Micronesia
+
+
+##General:
+After independence the government had difficulty in meeting these costs , and cut back on local facilities in order to pay for referrals , which still had financial and technical support from the USA .
+
+ORG：
+PER：
+LOC：USA
+
+
+##General:
+A documentary film , titled `` Voices from the Basement `` and in the works since 2004 , aired on WGBH-TV Boston on December 9 , 2010 .
+
+ORG：WGBH-TV Boston
+PER：
+LOC：
+
+
+##General:
+The film features stories from the people who worked and shopped in The Basement and include former Massachusetts Governor Michael Dukakis , congressman Barney Frank , Mayor Tom Menino , Estelle Parsons , and Mike Wallace .
+
+ORG：The Basement
+PER：Michael Dukakis,Barney Frank,Tom Menino,Estelle Parsons,Mike Wallace
+LOC：Massachusetts
+
+
+##General:
+The film is the work of filmmaker Michael Bavaro and premiered at the Omni Parker House in Boston .
+
+ORG：Omni Parker House
+PER：
+LOC：Boston
+
+
+##General:
+Carcedo has a degree in medicine and surgery from the University of Oviedo and a diploma in business medicine .
+
+ORG：University of Oviedo
+PER：
+LOC：
+
+
+##General:
+She began her professional activity in Primary Health Care from 1978 to 1984 , and since 1995 she has been working at the Natahoyo Health Center in Gijón .
+
+ORG：Primary Health Care,Natahoyo Health Center
+PER：
+LOC：Gijón
+
+
+##General:
+The largest and oldest event is run by the Australian Professional Rodeo Association , held each year in January over 4 days at the Gold Coast Convention and Exhibition Centre in Broadbeach , Queensland .
+
+ORG：
+PER：
+LOC：Queensland
+
+
+##General:
+The APRA event was first held in 1960 as the first in Australian rodeo history .
+
+ORG：
+PER：
+LOC：Australian
+
+
+##General:
+The First May ministry delayed the final approval for the Hinkley Point C nuclear power station in July 2016 , a project which May had objected to when she was Home Secretary .
+
+ORG：
+PER：May
+LOC：
+
+
+##General:
+Her political adviser Nick Timothy wrote an article in 2015 to oppose China ' s involvement in sensitive sectors .
+
+ORG：
+PER：Nick Timothy
+LOC：China '
+
+
+##General:
+He said that the government was `` selling our national security to China `` without rational concerns and `` the Government seems intent on ignoring the evidence and presumably the advice of the security and intelligence agencies '' .
+
+ORG：
+PER：
+LOC：China
+
+
+##Theaters:
+The Million Dollar was the first movie house built by entrepreneur Sid Grauman in 1918 as the first grand cinema palace in L.A . Grauman was later responsible for Grauman 's Egyptian Theatre and Grauman 's Chinese Theatre , both on Hollywood Boulevard , and was partly responsible for the entertainment district shifting from downtown Los Angeles to Hollywood in the mid-1920s .
+
+ORG：
+PER：
+LOC：L.A .,Hollywood Boulevard,Los Angeles,Hollywood
+
+
+##General:
+Amato 's early piano studies included renowned teacher and virtuoso , Ozan Marsh .
+
+ORG：
+PER：Amato,Ozan Marsh
+LOC：
+
+
+##General:
+In the early 1980s , Amato traveled to Europe to study with Louis Kentner , in London and with Gaby Casadesus , in Paris .
+
+ORG：
+PER：Amato,Louis Kentner,Gaby Casadesus
+LOC：Europe,London,Paris
+
+
+##General:
+Oreszczyn was a member of the UK Department of Energy and Climate Change ( DECC ) Scientific Advisory Group and advised the Energy Efficiency Deployment Office at DECC .
+
+ORG：
+PER：Oreszczyn
+LOC：
+
+
+##General:
+He is a member of the NHBC Foundation Expert Panel , and a member of EDGE an inter-institutional ginger group involving CIBSE , ICE , RIBA , IStructE and the RICS which seeks to promote interdisciplinary co-operation between construction professionals .
+
+ORG：CIBSE,ICE,RIBA,IStructE,RICS
+PER：
+LOC：
+
+
+##General:
+Oreszczyn is a Fellow and Vice President of CIBSE and sits on the CIBSE Board .
+
+ORG：CIBSE,CIBSE
+PER：Oreszczyn
+LOC：
+
+
+##General:
+`` Breathe In `` was filmed on location in upstate New York and Terminal 4 in JFK International Airport in Queens , New York .
+
+ORG：
+PER：
+LOC：New York,Terminal 4 in JFK International Airport,New York
+
+
+##General:
+Europeans first explored and settled in the area as graziers sought pastoral land mainly for cattle .
+
+ORG：
+PER：
+LOC：Europeans
+
+
+##General:
+Magonigle 's papers are held by the New York Public Library and by the Drawings and Archives Department in the Avery Architectural and Fine Arts Library at Columbia University .
+
+ORG：Columbia University
+PER：Magonigle
+LOC：
+
+
+##General:
+On 1 August 2008 , Jetstar announced that it had signed an agreement with the Northern Territory Government to make Darwin International Airport an international hub with plans for seven aircraft to be based in Darwin .
+
+ORG：Jetstar
+PER：
+LOC：Darwin International Airport,Darwin
+
+
+##General:
+Under the agreement , Jetstar would be required to base three aircraft at Darwin by June 2009 , with a further four by June 2012 , with the Northern Territory Governmen t to provide $ 5 million to set up the hub and a further $ 3 million for promotion of the new routes .
+
+ORG：Jetstar
+PER：
+LOC：Darwin
+
+
+##General:
+In December 2013 , Jetstar announced that it would be closing the Darwin base in May 2014 and re-positioning the based aircraft to Adelaide .
+
+ORG：Jetstar
+PER：
+LOC：Darwin
+
+
+##General:
+Her work is also included in the permanent collection of the Hirshhorn Museum at the Smithsonian Institution .
+
+ORG：Smithsonian Institution
+PER：
+LOC：
+
+
+##General:
+Apart from being the best known , this tree is possibly the oldest and biggest baobab in Zimbabwe .
+
+ORG：
+PER：
+LOC：Zimbabwe
+
+
+##General:
+Unlike the animals rescued and saved by Operation Noah during the flooding , the trees had to stay where they were , many were bulldozed so they would not become underwater hazards .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+During the period 2001 - 2002 , the Euroceltic management team made many ambitious plans for expansion .
+
+ORG：
+PER：
+LOC：Euroceltic
+
+
+##General:
+These plans included either merging with or taking over Danish airline NewAir , creating new routes from Waterford Airport to other parts of Europe , and even a multimillion-pound investment at Waterford Airport .
+
+ORG：Danish airline NewAir
+PER：
+LOC：Waterford Airport,Europe,Waterford Airport
+
+
+##General:
+Edmond Haraucourt , French playwright and poet , was commissioned in the 1880s by the actor and theatrical director Paul Porel to make a French -verse adaptation of `` The Merchant of Venice `` .
+
+ORG：
+PER：Edmond Haraucourt,Paul Porel
+LOC：French,French
+
+
+##General:
+His play `` Shyloc k '' , first performed at the Théâtre de l'Odéon in December 1889 , had incidental music by the French composer Gabriel Fauré , later incorporated into an orchestral suite of the same name .
+
+ORG：
+PER：Gabriel Fauré
+LOC：French
+
+
+##General:
+With the repeal of Prohibition , Cornero moved into gaming .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+In 1931 when gambling was legalized , he and his brothers Louis and Frank moved to Las Vegas , and took an option to purchase a piece of desert land outside the Las Vegas city limits .
+
+ORG：
+PER：
+LOC：Las Vegas,Las Vegas
+
+
+##General:
+Cornero soon opened The Meadows Casino & amp ; Hotel one of the first seven licensed casinos in the Las Vegas area , with a hotel that opened soon after the casino .
+
+ORG：The Meadows Casino & amp
+PER：
+LOC：Las Vegas
+
+
+##General:
+It is considered the earliest resorts in Vegas , 10 years before El Rancho Vegas and 15 ahead of The Flamingo .
+
+ORG：
+PER：
+LOC：Vegas,El Rancho Vegas,The Flamingo
+
+
+##General:
+Steven Bruce `` Steve '' Dodge ( July 12 , 1945 – January 17 , 2019 ) was an American telecommunications and media entrepreneur , environmentalist , and philanthropist .
+
+ORG：
+PER：
+LOC：American
+
+
+##General:
+He co-founded and was the founder , chairman and CEO of five companies including A merican Tower , American Radio Systems , American Cablesystems , Windover Development , and Beverly Crossing .
+
+ORG：merican Tower,American Radio Systems,American Cablesystems,Windover Development,Beverly Crossing
+PER：
+LOC：
+
+
+##General:
+Dodge was inducted into the Academy of Distinguished Entrepreneurs at Babson College in 2002 and the Mobile Infrastructure Hall of Fame in November 2018 .
+
+ORG：Academy of Distinguished Entrepreneurs,Babson College,Mobile Infrastructure Hall of Fame
+PER：
+LOC：
+
+
+##General:
+Throughout his career he served on numerous boards , including Sotheby ’ s , The Cabot ( Beverly , Massachusetts ) , the Dana Farber Cancer Institute , Endicott College , and Montserrat College of Art .
+
+ORG：Sotheby ’ s,The Cabot,Beverly,Dana Farber Cancer Institute,Endicott College,Montserrat College of Art
+PER：
+LOC：Massachusetts
+
+
+##General:
+The first RAAF Super Hornet was completed in 2009 and first flew from Boeing 's factory in St. Louis , Missouri on 21 July 2009 .
+
+ORG：RAAF Super Hornet,Boeing 's
+PER：
+LOC：St. Louis,Missouri
+
+
+##General:
+RAAF crews began training in the U.S . in 2009 .
+
+ORG：RAAF
+PER：
+LOC：U.S .
+
+
+##General:
+The RAAF 's first five F/A-18F s arrived at their home base , RAAF Base Amberley in Queensland , on 26 March 2010 ; and were joined by six more aircraft on 7 July 2010 .
+
+ORG：RAAF,F/A-18F,RAAF
+PER：
+LOC：Queensland
+
+
+##General:
+Following the arrival of another four aircraft in December 2010 , the first RAAF F/A-18F squadron was declared operational on 9 December 2010 .
+
+ORG：RAAF F/A-18F
+PER：
+LOC：
+
+
+##Theaters:
+John William Counsell ( 24 April 1905–23 February 1987 ) was an English actor , director and theatre manager , who ( with his wife Mary Kerridge ) ran the Theatre Royal , Windsor and its in-house repertory company from the 1930s to the 1980s .
+
+ORG：
+PER：
+LOC：English
+
+
+##General:
+Born in Beckenham , to Claud Counsell and Evelyn Fleming , the bulk of Counsell 's career was spent in Windsor repertory theatre and the West End stage .
+
+ORG：
+PER：
+LOC：Beckenham,West End
+
+
+##General:
+Nottingham Forest again needed a replay to make it into the semi-finals , following a 1–1 draw against Crystal Palace at Selhurst Park with a 4–2 win at the City Ground .
+
+ORG：Nottingham Forest,Crystal Palace,City Ground
+PER：
+LOC：
+
+
+##General:
+Though he received an offer from the Lubavitcher Rebbe , Rabbi Menachem Mendel Schneerson , to run the Chabad Library , Mondshine instead took the position as a librarian at the National Library of Israel at the Hebrew University of Jerusalem .
+
+ORG：Lubavitcher Rebbe,Rabbi Menachem Mendel Schneerson,Hebrew University
+PER：
+LOC：Israel,Jerusalem
+
+
+##General:
+Among them is the author and journalist Jacob Ludvigsen ( 1947 ) who among other happenings founded the free town of Christiania in Copenhagen .
+
+ORG：
+PER：
+LOC：Christiania,Copenhagen
+
+
+##General:
+After thirteen years of marriage and mothering , she started working at the Danish Royal Library in Copenhagen .
+
+ORG：
+PER：
+LOC：Copenhagen
+
+
+##General:
+At that time , she started her career as a translator from English .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+On opening the company entered a partnership with the Severn and Wye Railway ; the Sharpness branch of the Midland Railway was transferred into the group , the combined network forming the Severn & amp ; Wye and Severn Bridge Railwa y .
+
+ORG：Severn & amp
+PER：
+LOC：Severn,Wye Railway,Sharpness,Midland Railway,Wye,Severn Bridge Railwa
+
+
+##General:
+The Severn Bridge Railway and the former Midland Railway branch formed the `` Bridge '' section of the S & amp ; WJR ; the former Severn and Wye Railway formed the `` Forest '' section .
+
+ORG：S & amp
+PER：
+LOC：Severn Bridge Railway,Midland Railway,Severn and Wye Railway
+
+
+##General:
+A Libelle II `` VQ-FAB '' , manufacturers number 117 built in 1925 , which operated in Fiji , is displayed in the Deutsches Museum in the centre of Munich .
+
+ORG：
+PER：
+LOC：Fiji,Munich
+
+
+##General:
+The concept of boundary separation only became important around 1870 , when cultural conflicts increased between coolies , Chinese and the British .
+
+ORG：
+PER：
+LOC：Chinese,British
+
+
+##General:
+One of the first legal attempt to control districts came in 1888 under the European District Reservation Ordinance , which reserved areas exclusively to Europeans .
+
+ORG：
+PER：
+LOC：Europeans
+
+
+##General:
+Roman legions under Pompey conquered much of the Levant in 63 BC , inaugurating a period of Roman rule that lasted four centuries .
+
+ORG：
+PER：Pompey
+LOC：Roman,Levant,Roman
+
+
+##General:
+In 106 AD , Emperor Trajan annexed Nabataea unopposed , and rebuilt the King 's Highway which became known as the Via Traiana Nova road .
+
+ORG：
+PER：Trajan,Nabataea
+LOC：King 's Highway,Via Traiana Nova road
+
+
+##General:
+The Roman s gave the Greek cities of Transjordan – Philadelphia ( Amman ) , Geras a ( Jerash ) , Gedara ( Umm Qays ) , Pella ( Tabaqat Fahl ) and Arbila ( Irbid ) –and other Hellenistic cities in Palestine and southern Syria , a level of autonomy by forming the `` Decapoli s '' , a ten-city league .
+
+ORG：Decapoli
+PER：
+LOC：Roman,Greek,Transjordan,Philadelphia,Geras,Gedara,Pella,Arbila,Hellenistic,Palestine,Syria
+
+
+##General:
+Jerash is one of the best preserved Roman cities in the East ; it was even visited by Emperor Hadrian during his journey to Palestine .
+
+ORG：
+PER：
+LOC：Jerash,Roman,Hadrian,Palestine
+
+
+##General:
+Rawat attended Cambrian Hall School in Dehradun and the St. Edward 's School , Shimla He then joined the National Defence Academy , Khadakwasla and the Indian Military Academy , Dehradun , where he was awarded the ' Sword of Honour ' .
+
+ORG：Cambrian Hall School,St. Edward 's School,National Defence Academy,Indian Military Academy
+PER：
+LOC：Dehradun,Shimla,Khadakwasla,Dehradun
+
+
+##General:
+The play was going to have its world premiere at the Yale School of Drama in October 1966 .
+
+ORG：Yale School of Drama
+PER：
+LOC：
+
+
+##General:
+However that ended when there was a chance it would be produced on Broadway .
+
+ORG：Broadway
+PER：
+LOC：
+
+
+##General:
+Tyler Pounds Regional Airport offers service to Dallas-Fort Worth International Airport via American Eagle and to Houston 's George Bush Intercontinental Airport via United Express .
+
+ORG：American Eagle,United Express
+PER：
+LOC：Tyler Pounds Regional Airport,Dallas-Fort Worth International Airport,Houston 's George Bush Intercontinental Airport
+
+
+##General:
+In 1903 , the city of San Francisco proposed building a hydroelectric dam to flood Hetch Hetchy Valley .
+
+ORG：
+PER：
+LOC：San Francisco
+
+
+##General:
+The 1941 Georgia Bulldogs football team was an American football team that represented the University of Georgia as a member of the Southeastern Conference during the 1941 college football season .
+
+ORG：Georgia Bulldogs,University of Georgia,Southeastern Conference
+PER：
+LOC：American
+
+
+##General:
+In their third season under head coach Wally Butts , the team compiled a 9–1–1 record ( 3–1–1 against SEC opponents ) , finished third in the SEC , outscored opponents by a total of 319 to 85 , and defeated TCU in the 1942 Orange Bowl .
+
+ORG：SEC,TCU,Orange Bowl
+PER：
+LOC：
+
+
+##General:
+The team played its home games at Sanford Stadium in Athens , Georgia , and at Ponce de Leon Park and Grant Field in Atlanta .
+
+ORG：Sanford Stadium
+PER：
+LOC：Athens,Georgia,Atlanta
+
+
+##General:
+The City of Ottawa Central Archives and Ottawa Public Library Materials Centre is located at 100 Tallwood Dr .
+
+ORG：
+PER：
+LOC：Tallwood Dr
+
+
+##General:
+The Leadership in Energy and Environmental Design ( LEED ) building was designed by Shoalts and Zaback Architects , and Barry J. Hobin and Associates Architects .
+
+ORG：Energy and Environmental Design,LEED,Shoalts and Zaback Architects,Barry J. Hobin and Associates Architects
+PER：
+LOC：
+
+
+##Music:
+The Rondo Brothers also played on the album `` White People `` by Handsome Boy Modeling School , and joined the band on their month-long US tour and several shows at the Jazz Cafe in London , where they also performed with Jamie Cullum .
+
+ORG：
+PER：
+LOC：US,London
+
+
+##General:
+Meanwhile , `` No Time Left On Earth `` was released in Japan on JetSet Records , along with two special edition 12 '' records .
+
+ORG：
+PER：
+LOC：Japan
+
+
+##General:
+The Splityard Creek Dam borders the Wivenhoe-Somerset Road and there is a public carpark on the side of the road with access to the Splityard Creek Lookout .
+
+ORG：
+PER：
+LOC：Wivenhoe-Somerset Road,Splityard Creek Lookout
+
+
+##Theaters:
+Long Wharf Theatre was founded by Jon Jory and Harlan Kleiman in 1965 when Arthur Miller 's The Crucible opened for a two-week engagement .
+
+ORG：
+PER：Arthur Miller
+LOC：
+
+
+##General:
+Between 1949 and 1962 , the corporate firm was Huntington Ice Cream Company .
+
+ORG：Huntington Ice Cream Company
+PER：
+LOC：
+
+
+##General:
+The name succeeded `` The Baskin-Robbins Partnership , '' and was eventually changed back to Baskin-Robbins , Inc . on November 26 , 1962 .
+
+ORG：The Baskin-Robbins Partnership,Baskin-Robbins , Inc
+PER：
+LOC：
+
+
+##General:
+Baskin-Robbins was owned by its founders until it was acquired in 1967 ( just prior to Burt Baskin 's death ) by the United Brands Compan y ( United Fruit ) .
+
+ORG：Baskin-Robbins,Burt Baskin 's death,United Brands Compan,United Fruit
+PER：
+LOC：
+
+
+##General:
+In the 1970s , the chain went international , opening stores in Japan , Saudi Arabia , South Korea , and Australi a .
+
+ORG：
+PER：
+LOC：Japan,Saudi Arabia,South Korea,Australi
+
+
+##General:
+Baskin-Robbins also was the first to introduce ice cream cakes to the public .
+
+ORG：Baskin-Robbins
+PER：
+LOC：
+
+
+##General:
+Ghost Train Orchestra is a Brooklyn -based jazz and chamber ensemble led by Brian Carpenter .
+
+ORG：
+PER：
+LOC：Brooklyn
+
+
+##General:
+For the commission , Carpenter transcribed and arranged a set of overlooked music from late 1920s Chicago and Harlem and formed a side project from his regular band Beat Circus to perform it .
+
+ORG：
+PER：
+LOC：Chicago,Harlem
+
+
+##General:
+The band first recorded in 2009 at Avatar Studios in Manhattan and released `` Hothouse Stomp `` in 2011 on Accurate Records .
+
+ORG：
+PER：
+LOC：Manhattan
+
+
+##General:
+There has been discussion about which guide is more important , the Michelin Guide or the Gault Millau .
+
+ORG：Michelin
+PER：
+LOC：
+
+
+##General:
+In the 1970s the Michelin 's continued conservative support of traditional haute cuisine was challenged by the support of nouvelle cuisine by the Gault- Millau .
+
+ORG：Michelin
+PER：
+LOC：
+
+
+##General:
+Gault Millau has guides for various other countries , including Netherlands , Belgium & amp ; Luxembourg , Switzerland , Germany , and Poland .
+
+ORG：
+PER：
+LOC：Netherlands,Belgium,Luxembourg,Switzerland,Germany,Poland
+
+
+##General:
+A nuclear power plant was proposed in 1968 , and resulted in the creation of the Nuclear Energy Board .
+
+ORG：Nuclear Energy Board
+PER：
+LOC：
+
+
+##General:
+It was to be built during the 1970s at Carnsore Point in County Wexford by the Electricity Supply Board .
+
+ORG：Electricity Supply Board
+PER：
+LOC：County Wexford
+
+
+##General:
+The plan envisioned four reactors to be built at the site , but was dropped in 1981 after strong opposition from anti-nuclear lobby groups throughout the 1970s , particularly in 1978 with concerts and rallies being held at Carnsore Point attended by popular musician Christy Moore .
+
+ORG：
+PER：Christy Moore
+LOC：
+
+
+##General:
+Beginning in 1974 , active-duty squadrons from Myrtle Beach , England and Davis-Monthan Air Force Bases began deployments of A-7Ds to Howard AFB , Panama to train with Army and Naval forces defending the Panama Canal .
+
+ORG：Davis-Monthan Air Force Bases,Howard AFB
+PER：
+LOC：Myrtle Beach,England,Panama
+
+
+##General:
+These deployments , named `` Cornet Cove '' generally were of ninety ( 90 ) days , and were rotated among squadrons of the three wings in the United States .
+
+ORG：
+PER：
+LOC：United States
+
+
+##General:
+Beginning in 1977 , with the phaseout of the A-7D with active-duty units , the Air National Guard began taking over this mission .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+In December 1989 , the South Dakota 175th Tactical Fighter Squadron and Ohio 112th Tactical Fighter Squadron were at Howard AFB on a Coronet Cove deployment when President George H.W .
+
+ORG：South Dakota 175th Tactical Fighter Squadron,Ohio 112th Tactical Fighter Squadron,Howard AFB
+PER：
+LOC：
+
+
+##General:
+Bush announced Operation Just Cause , the United States Invasion of Panama .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+The ANG squadrons participated in the invasion , flying 34 combat missions , completing 34 sorties , expended 71.7 flying hours and expended 2,715 rounds of ordnance .
+
+ORG：ANG squadrons
+PER：
+LOC：
+
+
+##General:
+Indira Hinduja is an Indian gynecologist , obstetrician and infertility specialist based in Mumbai .
+
+ORG：
+PER：
+LOC：Indian,Mumbai
+
+
+##General:
+She pioneered the Gamete intrafallopian transfer ( GIFT ) technique resulting in the birth of India 's first GIFT baby on 4 January 1988 .
+
+ORG：
+PER：
+LOC：India
+
+
+##Healthcare:
+Previously she delivered India 's s second test tube baby at KEM Hospital on 6 August 1986 .
+
+ORG：
+PER：
+LOC：India
+
+
+##General:
+Notable venues at which she has performed include the Lincoln Center for the Performing Arts in New York City and the Opéra Nouvel in France .
+
+ORG：
+PER：
+LOC：New York City,France
+
+
+##General:
+She worked in the choir at `` Mindre teatern '' in Stockholm 1881–1883 .
+
+ORG：
+PER：
+LOC：Stockholm
+
+
+##General:
+Her first role was as a character in the opera `` Sjökadetten `` .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+She was a student at the conservatory in Stockholm 1884–1885 , and then studied for Fritz Arlberg ( 1830-1896 ) and Signe Hebbe ( 1837–1925 ) from 1885–1886 .
+
+ORG：
+PER：Fritz Arlberg,Signe Hebbe
+LOC：Stockholm
+
+
+##General:
+She then worked at Södra Teatern in Stockholm 1888–1889 .
+
+ORG：Södra Teatern
+PER：
+LOC：Stockholm
+
+
+##General:
+The first pre-season game of the season was announced as being an away fixture against BSC Glasgow , with Rotherham United visiting Cappielow for the third year in a row .
+
+ORG：BSC Glasgow,Rotherham United
+PER：
+LOC：Cappielow
+
+
+##General:
+Maybourne Hotel Group is an Irish and Qatar owned British luxury hotel operator , which owns and manages The Berkeley , Claridge 's and The Connaught hotels in London .
+
+ORG：Maybourne Hotel Group,The Berkeley,The Connaught,London
+PER：
+LOC：Irish,Qatar,British,Claridge 's
+
+
+##General:
+German dramatist Klaus Pohl later translated Koper 's original stage script into German .
+
+ORG：
+PER：Koper
+LOC：German
+
+
+##General:
+`` Körper ohne Kopf in Oben-ohne-Bar '' premiered at the Deutsches Schauspielhaus in Hamburg , Germany on 11 November 1999 .
+
+ORG：
+PER：
+LOC：Hamburg,Germany
+
+
+##Healthcare:
+In 2008 , the non-profit Panzi Foundation DRC was created in order to support the work of Panzi Hospital with `` legal assistance , psycho-social support and socio-economic programmes . ''
+
+ORG：Panzi Foundation DRC,Panzi Hospital
+PER：
+LOC：
+
+
+##Healthcare:
+A Panzi Foundation USA was later founded to promote fundraising in the United States of America , and encourage investment in the Panzi Hospital and Foundations .
+
+ORG：A Panzi Foundation USA,Panzi Hospital and Foundations
+PER：
+LOC：United States of America
+
+
+##Healthcare:
+In 2016 the Mukwege Foundation was created , to promote the aims of the Panzi Hospital and Foundations worldwide and `` advocate for an end to wartime sexual violence everywhere . ''
+
+ORG：Mukwege Foundation,Panzi Hospital and Foundations
+PER：
+LOC：
+
+
+##General:
+The holistic care approach that the Panzi Foundation employs reflects Dr. Mukwege 's beliefs , as a co-founder of the organization , in the need for treating the person as a whole .
+
+ORG：Panzi Foundation
+PER：
+LOC：
+
+
+##General:
+A newspaper report in September 1954 said the Flamingo Hotel was being sold for between $ 9 and $ 10 million to a Chicago syndicate of mid-west bookies and gamblers .
+
+ORG：Flamingo Hotel
+PER：
+LOC：Chicago
+
+
+##General:
+George Martin Skurla ( July 2 , 1921 – September 2 , 2001 ) graduated from University of Michigan in 1944 and was an aeronautical engineer with Grumman Corporation .
+
+ORG：University of Michigan,Grumman Corporation
+PER：
+LOC：
+
+
+##General:
+He was responsible for overseeing the production of the Lunar Modules for the Apollo Program .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+In June 1973 , he oversaw operations for the design and production of the F-14 Tomcat and A-6 Intruder aircraft .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+He was elected president of Grumman Corporation in 1985 and retired the next year after 42 years with Grumman Corporation .
+
+ORG：Grumman Corporation,Grumman Corporation
+PER：
+LOC：
+
+
+##General:
+He died from pneumonia in Melbourne , Florida at Holmes Regional Medical Center at age 80 .
+
+ORG：
+PER：
+LOC：Melbourne,Florida
+
+
+##General:
+At Florida Institute of Technology in Melbourne , Florida , the aeronautics building is named after him , where he served on the Board of Trustees .
+
+ORG：Florida Institute of Technology in Melbourne,Board of Trustees
+PER：
+LOC：Florida
+
+
+##General:
+According to various Official Airline Guide ( OAG ) editions as well as airline timetables , the majority of jet service operated by Canadian-based air carriers was nonstop or direct to Toronto and Winnipeg .
+
+ORG：Official Airline Guide,OAG,Canadian-based air carriers
+PER：
+LOC：
+
+
+##General:
+U.S.-based North Central Airlines operated nonstop flights to Duluth with continuing no change of plane jet service to Chicago O'Hare Airport while successor Republic Airlines ( 1979-1986 ) also flew nonstop to Duluth with continuing no change of plane jet service to Minneapolis/St .
+
+ORG：Republic Airlines
+PER：
+LOC：Duluth,Chicago O'Hare Airport,Duluth
+
+
+##General:
+Paul and then on to Denver .
+
+ORG：
+PER：
+LOC：Denver
+
+
+##General:
+When Google Books started , the British Library signed an agreement with Microsoft to digitise a number of books from the British Library for its Live Search Books project .
+
+ORG：Google Books,British Library,Microsoft,British Library
+PER：
+LOC：
+
+
+##General:
+This material was only available to readers in the US , and closed in May 2008 .
+
+ORG：
+PER：
+LOC：US
+
+
+##General:
+The scanned books are currently available via the British Library catalogue or Amazon .
+
+ORG：British Library,Amazon
+PER：
+LOC：
+
+
+##General:
+Another example is `` Cockcroft 's Folly `` , a set of air scrubbers added , at great expense and complication , to the Windscale nuclear reactor late in the project 's construction .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+It lies upstream from the Indian Ocean , along the border between Zambia and Zimbabwe .
+
+ORG：
+PER：
+LOC：Zambia,Zimbabwe
+
+
+##General:
+Louis René Quentin de Richebourg , marquis de Champcenetz ( 1723-1813 ) , was a French official .
+
+ORG：
+PER：
+LOC：French
+
+
+##General:
+He was governor of the Tuileries Palace at the time of the French Revolution .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+Playwright and performer Dan Hurlin and composer and sound designer Dan Moses Schreier adapted Straight 's trip into a theatrical production that was billed as an opera .
+
+ORG：
+PER：Dan Hurlin,Dan Moses Schreier
+LOC：
+
+
+##General:
+`` The Shoulder `` was performed at CSPS Hall in Des Moines , Iowa , in October 1997 .
+
+ORG：
+PER：
+LOC：Des Moines,Iowa
+
+
+##General:
+Use of the term `` steakburger '' dates to the 1920s in the United States .
+
+ORG：
+PER：
+LOC：United States
+
+
+##General:
+In the U.S . in 1934 , A.H. `` Gus '' Belt , the founder of Steak ' n Shake , devised a higher-quality hamburger and offered it as a `` steakburger '' to customers at the company 's first location in Normal , Illinois .
+
+ORG：Steak ' n Shake
+PER：
+LOC：U.S .,Normal,Illinois
+
+
+##General:
+This burger used a combination of ground meat from the strip portion of T-bone steak and sirloin steak in its preparation .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+Steak burgers are a primary menu item at Steak ' n Shake restaurants , and the company 's registered trademarks included `` original steakburger '' and `` famous for steakburgers '' .
+
+ORG：
+PER：
+LOC：Steak ' n Shake
+
+
+##General:
+Steak ' n Shake 's `` Prime Steakburgers '' are now made of choice grade brisket and chuck .
+
+ORG：
+PER：
+LOC：Steak ' n Shake
+
+
+##General:
+Due to the impact of the COVID-19 pandemic , all matches are held at The Greenbrier “ America ’ s Resort ” in White Sulphur Springs , West Virginia .
+
+ORG：
+PER：
+LOC：The Greenbrier,America,White Sulphur Springs,West Virginia
+
+
+##General:
+`` No Maps '' was released by Docurama and had its world premiere at the Vancouver International Film Festival in October 2000 with the United States premiere at the Slamdance Film Festival in January 2001 .
+
+ORG：
+PER：
+LOC：United States
+
+
+##Theaters:
+The documentary subsequently hit the independent film festival circuit , with screenings at South by Southwest in Austin , Texas ( March 2001 ) , Grauman 's Egyptian Theatre in Los Angeles ( March 2001 ) ; onedotzero at the Institute of Contemporary Arts , London ( May 2001 ) , the Carlton Arts Festival in São Paulo ( June 2001 ) , the Oldenburg International Film Festival in Germany ( September 2001 ) , and at onedotzero Japan ( November 2001 ) .
+
+ORG：Institute of Contemporary Arts
+PER：
+LOC：Austin,Texas,Los Angeles,London,São Paulo,Germany,Japan
+
+
+##General:
+The 2016 Fox Sports Cup was a summer football friendly tournament organized by the Dutch Eredivisie and Match IQ .
+
+ORG：Match IQ
+PER：
+LOC：
+
+
+##General:
+It was hosted by Vitesse at the GelreDome in Arnhem , from 21 to 23 July 2016 .
+
+ORG：Vitesse
+PER：
+LOC：GelreDome,Arnhem
+
+
+##General:
+The three other European teams that took part were : Porto ( Portugal ) , PSV Eindhoven ( Netherlands ) , and West Bromwich Albion ( England ) .
+
+ORG：Porto,PSV Eindhoven,West Bromwich Albion
+PER：
+LOC：Portugal,Netherlands,England
+
+
+##General:
+It was sponsored by Fox Sports Netherlands .
+
+ORG：Fox Sports Netherlands
+PER：
+LOC：
+
+
+##General:
+York Park is a sports ground located in the Inveresk and York Park Precinct , Launceston , Australia .
+
+ORG：
+PER：
+LOC：York Park,Inveresk,Launceston,Australia
+
+
+##SportsEvents:
+It has the highest capacity of any stadium in Tasmania , holding 20,000 .
+
+ORG：
+PER：
+LOC：Tasmania
+
+
+##General:
+Between 2004 and 2016 , it was known as Aurora Stadium under a naming rights agreement with Aurora Energy .
+
+ORG：Aurora Energy
+PER：
+LOC：Aurora Stadium
+
+
+##General:
+Primarily used for Australian rules football , its record attendance , 20,971 , was set in June 2006 when Hawthorn played Richmond in an Australian Football League ( AFL ) match in June 2006 .
+
+ORG：Hawthorn,Richmond,Australian Football League,AFL
+PER：
+LOC：Australian
+
+
+##General:
+Three Sunderlands from No 230 Squadron were part of a 640 flying aircraft display put on at RAF Odiham for the Queen 's Coronation Review .
+
+ORG：RAF Odiham
+PER：
+LOC：
+
+
+##General:
+Throughout the 1950s , Sunderlands of No 201 and 230 Squadrons ferried scientists and support staff to and from the North Greenland expeditions .
+
+ORG：
+PER：
+LOC：North Greenland
+
+
+##General:
+No 230 Squadron even adopted a Husky mascot puppy when bringing everyone including the dogs back to Britain in 1954 .
+
+ORG：
+PER：
+LOC：Britain
+
+
+##General:
+Southern Nuclear is overseeing the licensing and construction of two new nuclear units at the Plant Vogtle site near Augusta , Ga . Vogtle 3 and 4 will be among the first new nuclear plants built in America in more than 30 years .
+
+ORG：Southern Nuclear
+PER：
+LOC：Augusta,Ga,America
+
+
+##Healthcare:
+Craggs moved to Dublin where she trained at the Rotunda Hospital as a midwife , married a London East End General practitioner , Duncan Alexander McCrombie , from Aberdeen .
+
+ORG：Rotunda Hospital
+PER：
+LOC：Dublin,London East End,Aberdeen
+
+
+##General:
+Following the retirement of Vergé , the Moulin was taken over by Alain Llorca , who had been head chef at the Michelin-starred `` Chantecler `` dining room in the Hotel Negresco in Nice .
+
+ORG：
+PER：
+LOC：Chantecler,Hotel Negresco,Nice
+
+
+##General:
+The women 's 1500 metres speed skating competition of the 2010 Winter Olympics in Vancouver was held at the Richmond Olympic Oval on 21 February 2010 .
+
+ORG：
+PER：
+LOC：Vancouver,Richmond Olympic Oval
+
+
+##General:
+Over the next two decades , little changed for the 509th BW as it became SAC 's fighter-bomber experts .
+
+ORG：509th BW,SAC
+PER：
+LOC：
+
+
+##General:
+However , a 1988 decision by the Department of Defense to close Pease created major changes for the famous 509th .
+
+ORG：509th
+PER：
+LOC：
+
+
+##General:
+Headquarters SAC decreed that the 509th would not inactivate but would transfer to Whiteman Air Force Base to become the first B-2 stealth bomber unit .
+
+ORG：SAC,509th,Whiteman Air Force Base,B-2 stealth bomber unit
+PER：
+LOC：
+
+
+##General:
+As such , the wing moved to Whiteman on 30 September 1990 , without people or equipment .
+
+ORG：Whiteman
+PER：
+LOC：
+
+
+##General:
+In 2016 the Israeli Ministry of Energy announced that the IEC would be ordered to shut down the older block 1 ( generation units 1-4 ) of the station in the early 2020s .
+
+ORG：IEC
+PER：
+LOC：
+
+
+##General:
+Block 1 's production capacity will be replaced with a natural gas powered 2-unit combined cycle power plant utilizing two advanced GE Power HA-class gas turbines , scheduled to come online in 2022 .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+The new gas-powered plant is expected to be built in the space originally reserved for additional coal units in the northern part of the Orot Rabin site and although shut down , coal units 1-4 will continue to be maintained so that they may be restarted in case of emergency ( such as an extended disruption in the domestic supply of natural gas ) .
+
+ORG：
+PER：
+LOC：Orot Rabin
+
+
+##General:
+The Wen Pulin Archive of Chinese Avant-Garde Art , a collaboration among the Goldsen Archive , the Charles W. Wason Collection on East Asia at Cornell University Library and the Dongtai Academy of Art in Beijing , China consists of 360 hours of videotape that documents Chinese contemporary art , installation , performance , video , and rock n ' roll from 1985-2002 .
+
+ORG：Dongtai Academy of Art
+PER：
+LOC：Asia,Beijing,China,Chinese
+
+
+##General:
+Some of the artists that are showcased in the collection are : Cui Jian , Du Zhenjun , Feng Mengbo , Li Xianting , Lin Yilin , Lu Shengzhong , Mou Sen , Song Dong , Song Yongping , Xu Bing , Yu Xiaofu , Zhang Dali , Zhou Shaobo , Chen Lingyang .
+
+ORG：
+PER：Cui Jian,Du Zhenjun,Feng Mengbo,Li Xianting,Lin Yilin,Lu Shengzhong,Mou Sen,Song Dong,Song Yongping,Xu Bing,Yu Xiaofu,Zhang Dali,Zhou Shaobo,Chen Lingyang
+LOC：
+
+
+##General:
+Royal Danish Library ( ) is a merger of the two previous national libraries in Denmark : the State and University Library in Aarhus and the Royal Library in Copenhagen .
+
+ORG：
+PER：
+LOC：Denmark,Aarhus,Copenhagen
+
+
+##General:
+Despite the ferocity of the night fighting , the High Seas Fleet punched through the British destroyer forces and reached Horns Reef by 4:00 on 1 June .
+
+ORG：High Seas Fleet
+PER：
+LOC：British,Horns Reef
+
+
+##General:
+The German fleet reached Wilhelmshaven a few hours later , where the undamaged dreadnoughts of the and es took up defensive positions .
+
+ORG：
+PER：
+LOC：German,Wilhelmshaven
+
+
+##General:
+Over the course of the battle , `` Schleswig-Holstein `` had fired only twenty 17 cm rounds .
+
+ORG：
+PER：
+LOC：Schleswig-Holstein
+
+
+##General:
+Delmonico 's in Lower Manhattan says on its menu that `` Eggs Benedict was first created in our ovens in 1860 . ''
+
+ORG：
+PER：
+LOC：Delmonico,Lower Manhattan
+
+
+##General:
+Paris Roscoe Vanover , Sr. ( September 7 , 1863–September 18 , 1927 ) was a United States circuit court judge for Pike and Letcher counties in Kentucky .
+
+ORG：
+PER：
+LOC：Pike,Letcher,Kentucky
+
+
+##General:
+Archives of the society are preserved in the Wellcome Library and the Communist Party of Great Britain archive in the Manchester 's People 's History Museum .
+
+ORG：
+PER：
+LOC：Manchester
+
+
+##General:
+The WTC Montevideo is only 30 minutes away from Carrasco International Airport and 15 minutes away from the Port of Montevideo .
+
+ORG：
+PER：
+LOC：Carrasco International Airport
+
+
+##General:
+It is next to Montevideo Shopping , in Buceo , the area of greatest growth in the city in recent years .
+
+ORG：
+PER：
+LOC：Buceo
+
+
+##General:
+Two more films followed in 2005 , the crime thriller `` Lord of War `` with Nicolas Cage and the drama adventure film `` Duma `` .
+
+ORG：
+PER：
+LOC：
+
+
+##Theaters:
+And from March 2005 he made his debut on Broadway , playing Mark Antony in `` Julius Caesar `` at the Belasco Theatre in midtown-Manhattan alongside Denzel Washington as Marcus Brutus .
+
+ORG：Broadway
+PER：
+LOC：midtown-Manhattan
+
+
+##General:
+Today vineyards in Egypt use drip irrigation to make up for the lack of rain .
+
+ORG：
+PER：
+LOC：Egypt
+
+
+##General:
+The earliest record of a building using Taynton stone is from 1310 , when it was used at Merton College , Oxford .
+
+ORG：Merton College,Oxford
+PER：
+LOC：
+
+
+##General:
+Taynton supplied stone for many of the older colleges of the University of Oxford , Windsor Castle , Old St Paul 's Cathedral and Eton College .
+
+ORG：University of Oxford,Eton College
+PER：
+LOC：Taynton
+
+
+##Theaters:
+The original statues around the Sheldonian Theatre in Oxford ( carved in the 17th century and since replaced ) were Taynton stone .Early in the 18th century Taynton supplied some of the stone for Blenheim Palace .
+
+ORG：
+PER：
+LOC：Oxford,Taynton
+
+
+##General:
+It was worked in 1846–52 for stone to build bridges in the Windrush Valley for the Oxford , Worcester and Wolverhampt on Railway .
+
+ORG：
+PER：
+LOC：Oxford,Worcester,Wolverhampt
+
+
+##General:
+Taynton stone was used in Oxford to widen Magdalen Bridge over the River Cherwell in 1882 and to build the New Bodleian Library in 1937–39 .
+
+ORG：
+PER：
+LOC：Oxford
+
+
+##General:
+Café de Flore was shot in Montréal and Paris , from 16 August 2010 until 19 November 2010 .
+
+ORG：
+PER：
+LOC：Montréal,Paris
+
+
+##General:
+In Paris , a scene was filmed on Boulevard Saint-Germain in front of the famous Parisian café of the same name .
+
+ORG：
+PER：
+LOC：Paris,Boulevard Saint-Germain,Parisian café
+
+
+##General:
+The library was built on Fifth Avenue , between 70th and 71st Streets , in 1877 .
+
+ORG：
+PER：
+LOC：Fifth Avenue,70th and 71st Streets
+
+
+##General:
+Bibliophile and philanthropist James Lenox donated a vast collection of his Americana , art works , manuscripts , and rare books , including the first Gutenberg Bible in the New World .
+
+ORG：
+PER：
+LOC：Americana
+
+
+##General:
+Moneypoint power station ( ) is Ireland 's largest electricity generation station ( output 915 MW ) and only coal-fired power station .
+
+ORG：
+PER：
+LOC：Ireland
+
+
+##General:
+Commissioned between 1985–87 , it is located on the River Shannon near Kilrush , County Clare .
+
+ORG：
+PER：
+LOC：Kilrush,Clare
+
+
+##General:
+The station operates largely on coal , making it both unique in the context of Irish electricity production and the country 's single largest emitter of greenhouse gases .
+
+ORG：
+PER：
+LOC：Irish
+
+
+##General:
+Gordon was a partner with Sammy Hagar ( of Van Halen ) on Cabo Wabo Tequila .
+
+ORG：Cabo Wabo Tequila
+PER：
+LOC：
+
+
+##General:
+He also partnered with Willie Nelson to create Old Whiskey River Bourbon .
+
+ORG：Old Whiskey River Bourbon
+PER：
+LOC：
+
+
+##General:
+Joseph Payne Brennan ( December 20 , 1918 – January 28 , 1990 ) was an American writer of fantasy and horror fiction , and also a poet .
+
+ORG：
+PER：Joseph Payne Brennan
+LOC：American
+
+
+##General:
+Of Irish ancestry , he was born in Bridgeport , Connecticut and he lived most of his life in New Haven , Connecticut , and worked as an Acquisitions Assistant at the Sterling Memorial Library of Yale University for over 40 years .
+
+ORG：Yale University
+PER：
+LOC：Irish,Bridgeport,Connecticut,New Haven,Connecticut
+
+
+##General:
+Brennan published several hundred short stories ( estimates range between four and five hundred ) , two novellas and reputedly thousands of poems .
+
+ORG：
+PER：Brennan
+LOC：
+
+
+##General:
+His stories appeared in over 200 anthologies and have been translated into German , French , Dutch , Italian and Spanish .
+
+ORG：
+PER：
+LOC：
+
+
+##General:
+He served in the Royal Army Medical Corps during World War I .
+
+ORG：Royal Army Medical Corps
+PER：
+LOC：
+
+
+##Healthcare:
+After the war he worked for a time as a clinical assistant at the Royal London Ophthalmic Hospital ( Moorfields ) before returning to Wales to work as an ophthalmic surgeon .
+
+ORG：Royal London Ophthalmic Hospital
+PER：
+LOC：Moorfields,Wales
+
+
+##Healthcare:
+In 1921 he was appointed Ophthalmic Surgeon at Cardiff Royal Infirmary and United Cardiff Hospitals and served there for 37 years .
+
+ORG：Cardiff Royal Infirmary and United Cardiff Hospitals
+PER：
+LOC：
+
+
+##General:
+Cork Airport also allows easy access to continental Europe and Cork Kent railway station in the city centre provides good rail links for domestic trade .
+
+ORG：
+PER：
+LOC：Cork Airport,Europe
+
+
+##General:
+Brinker International owns , operates , and franchises the Chili 's Grill & amp ; Bar and Maggiano 's Little Italy restaurant concepts .
+
+ORG：Brinker International,Chili 's Grill & amp
+PER：
+LOC：Italy
+
+
+##General:
+They also have a minority stake in Mac Acquisition LLC , the owners of Romano 's Macaroni Grill as of 2008 .
+
+ORG：Mac Acquisition LLC,Romano 's Macaroni Grill
+PER：
+LOC：
+
+
+##General:
+In 1955 , Mackaill moved to Honolulu , Hawaii .
+
+ORG：
+PER：
+LOC：Honolulu,Hawaii
+
+
+##General:
+She had fallen in love with the islands while filming `` His Captive Woman `` ( 1929 ) .
+
+ORG：
+PER：
+LOC：His Captive Woman
+
+
+##General:
+Mackaill lived at the luxurious Royal Hawaiian Hotel on the beach at Waikiki as a sort of celebrity-in-residence and enjoyed swimming in the ocean nearly every day .
+
+ORG：
+PER：
+LOC：Royal Hawaiian Hotel,Waikiki
+
+
+##General:
+Following its return from its final Western Pacific deployment in September 1976 , RVAH-5 commenced the inactivation process and was finally inactivated at Naval Air Station Key West on 30 September 1977 following over 29 years of active service .
+
+ORG：RVAH-5,Naval Air Station Key West
+PER：
+LOC：
+
+
+##General:
+The project was initiated by the US Library of Congress ( LC ) , the German National Library ( DNB ) and the OCLC on August 6 , 2003 .
+
+ORG：US Library of Congress,LC,German National Library,DNB,OCLC
+PER：
+LOC：
+
+
+##General:
+The Bibliothèque nationale de France ( BnF ) joined the project on October 5 , 2007 .
+
+ORG：Bibliothèque nationale de France,BnF
+PER：
+LOC：
+
+
+##Healthcare:
+First Lady of Arkansas Hillary Clinton served on the board of the Arkansas Children 's Hospital Legal Services from 1988 to 1992 .
+
+ORG：Arkansas Children 's Hospital Legal Services
+PER：Hillary Clinton
+LOC：Arkansas
+
+
+##Healthcare:
+Maixner was appointed to the position of Director of the Royal Children 's Hospital Neurosurgery Department in 2001 , becoming one of the youngest neurosurgery department heads in Australia and the first female head of neurosurgery at the Children 's Hospital .
+
+ORG：
+PER：
+LOC：Royal Children 's Hospital Neurosurgery Department,Australia
+
+
+##General:
+2003 NCAA Division I Men 's Soccer Tournament was a tournament of 48 teams from NCAA Division I across the nation who played for the NCAA Championship .
+
+ORG：NCAA Division I Men 's Soccer Tournament,NCAA Division I
+PER：
+LOC：
+
+
+##General:
+This year 's College Cup Final Four was held at Columbus Crew Stadium in Columbus , Ohio .
+
+ORG：College Cup Final Four
+PER：
+LOC：Columbus Crew Stadium,Columbus,Ohio
+
+
+##General:
+St. John 's , Maryland , Santa Clara , and Indiana qualified for the Final Four .
+
+ORG：St. John 's,Maryland,Santa Clara,Indiana
+PER：
+LOC：
+
+
+##General:
+St. John 's defeated Maryland , and Indiana beat Santa Clara .
+
+ORG：St. John 's,Maryland,Indiana,Santa Clara
+PER：
+LOC：
+
+
+##General:
+In the final Indiana defeated St. John 's , 2–1 .
+
+ORG：Indiana,St. John 's
+PER：
+LOC：
+
+
+##Healthcare:
+Thomas commenced her orthopedic residency at Yale-New Haven Hospital in New Haven , Connecticut in 1975 .
+
+ORG：
+PER：
+LOC：New Haven
+
+
+##General:
+In 1980 , Thomas completed a fellowship at the University of Maryland Medical Center in Baltimore in the shock trauma unit .
+
+ORG：University of Maryland Medical Center
+PER：
+LOC：Baltimore
+
+
+##General:
+In 1981 , she went on to serve as assistant professor of orthopedic surgery at the Johns Hopkins University School of Medicine in Baltimore Maryland .
+
+ORG：Johns Hopkins University School of Medicine
+PER：
+LOC：Baltimore Maryland
+
+
+##General:
+In 2004 , Thomas joined a private practice at the Tri County Orthopedic Center in Leesburg , Florida .
+
+ORG：
+PER：
+LOC：Leesburg,Florida
+
+
+##General:
+It is the first hospital founded in the Texas Medical Center in Houston , Texas ( and its founding predates the Texas Medical Center ) .
+
+ORG：
+PER：
+LOC：Houston,Texas
+
+
+##General:
+Founded in 1925 , it is the primary teaching hospital for McGovern Medical School ( formerly The University of Texas Medical School at Houston ( UTHealth Medical School ) ) and the flagship location of 13 hospitals in the Memorial Hermann Healthcare System .
+
+ORG：McGovern Medical School,The University of Texas Medical School,UTHealth Medical School
+PER：
+LOC：Houston
+
+
+##General:
+It is one of three certified Level I Trauma Centers in the greater Houston area .
+
+ORG：
+PER：
+LOC：Houston
+
+
